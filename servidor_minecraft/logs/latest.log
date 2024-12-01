@@ -1,14 +1,43 @@
-[00:14:31] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.16.3
-[00:14:31] [main/INFO]: Loading 50 mods:
+[16:11:14] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.16.9
+[16:11:14] [main/INFO]: Loading 81 mods:
 	- appleskin 3.0.5+mc1.20.5
 	   \-- cloth-config 14.0.126
 	        \-- cloth-basic-math 0.6.1
 	- armorposer 5.0.3
+	- c2me 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-base 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-client-uncapvd 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-fixes-chunkio-threading-issues 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-fixes-general-threading-issues 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-fixes-worldgen-threading-issues 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-fixes-worldgen-vanilla-bugs 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-notickvd 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-allocs 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-chunk-access 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-chunkio 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-math 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-scheduling 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-worldgen-general 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-opts-worldgen-vanilla 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-rewrites-chunk-serializer 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-rewrites-chunkio 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-server-utils 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-threading-chunkio 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-threading-lighting 0.2.0+alpha.11.100+1.20.6
+	   |-- c2me-threading-worldgen 0.2.0+alpha.11.100+1.20.6
+	   |-- com_electronwill_night-config_core 3.6.5
+	   |-- com_electronwill_night-config_toml 3.6.5
+	   |-- com_ibm_async_asyncutil 0.1.0
+	   |-- net_objecthunter_exp4j 0.4.8
+	   \-- org_threadly_threadly 7.0
 	- carpet 1.4.141+v240429
 	- carpet-extra 1.4.141
 	- chunky 1.4.10
+	- enhancedgroups 1.20.6-1.6.0
+	   |-- admiral 0.4.4+1.20.5
+	   |-- fabric-api-base 0.4.40+80f8cf51ff
+	   \-- fabric-command-api-v2 2.2.24+80f8cf51ff
 	- fabric-api 0.100.4+1.20.6
-	   |-- fabric-api-base 0.4.40+80f8cf51b0
 	   |-- fabric-api-lookup-api-v1 1.6.59+e9d2a72bb0
 	   |-- fabric-biome-api-v1 13.0.25+be5d88beb0
 	   |-- fabric-block-api-v1 1.0.20+6dfe4c9bb0
@@ -16,7 +45,6 @@
 	   |-- fabric-blockrenderlayer-v1 1.1.50+80f8cf51b0
 	   |-- fabric-client-tags-api-v1 1.1.12+7f945d5bb0
 	   |-- fabric-command-api-v1 1.2.45+f71b366fb0
-	   |-- fabric-command-api-v2 2.2.24+80f8cf51b0
 	   |-- fabric-commands-v0 0.2.62+df3654b3b0
 	   |-- fabric-content-registries-v0 8.0.6+b82b2392b0
 	   |-- fabric-convention-tags-v1 2.0.7+7f945d5bb0
@@ -56,96 +84,171 @@
 	   |-- fabric-sound-api-v1 1.0.21+c5fc38b3b0
 	   |-- fabric-transfer-api-v1 5.1.7+7fc4b352b0
 	   \-- fabric-transitive-access-wideners-v1 6.0.10+74e2f560b0
-	- fabricloader 0.16.3
+	- fabricloader 0.16.9
 	   \-- mixinextras 0.4.1
+	- ferritecore 6.1.1
 	- jade 14.2.4+fabric
 	- java 21
+	- lazydfu 0.1.3
 	- lithium 0.12.5
 	- merenc 4.1
 	- minecraft 1.20.6
-[00:14:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Obocraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:14:31] [main/INFO]: Compatibility level set to JAVA_21
-[00:14:31] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 0 override(s) found
-[00:14:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:14:40] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:14:40] [main/ERROR]: Couldn't load overlays metadata
+	- vmp 0.2.0+beta.7.155+1.20.6
+	   \-- com_ibm_async_asyncutil 0.1.0
+	- voicechat 1.20.6-2.5.22
+	   |-- fabric-api-base 0.4.40+80f8cf51ff
+	   |-- fabric-command-api-v2 2.2.24+80f8cf51ff
+	   \-- fabric-key-binding-api-v1 1.0.45+80f8cf51ff
+[16:11:14] [main/WARN]: Found 1 non-fabric mod:
+	- MinecraftOfflineOnlineConverter_3-BETA_1.jar
+[16:11:14] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Obocraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:11:15] [main/INFO]: Compatibility level set to JAVA_21
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[16:11:15] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:11:15] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[16:11:15] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[16:11:15] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[16:11:15] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[16:11:15] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[16:11:15] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 1 override(s) found
+[16:11:15] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[16:11:15] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[16:11:15] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:11:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:11:23] [main/INFO]: [voicechat] Compatibility version 18
+[16:11:23] [main/INFO]: [voicechat] Loading plugins
+[16:11:23] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[16:11:23] [main/INFO]: [voicechat] Initializing plugins
+[16:11:23] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[16:11:23] [main/INFO]: [voicechat] Registering events for 'enhancedgroups'
+[16:11:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:11:23] [main/ERROR]: Couldn't load overlays metadata
 com.google.gson.JsonParseException: minecraft/tags/function is not accepted directory name; minecraft/tags/functions is not accepted directory name; sozoka/advancement is not accepted directory name; sozoka/advancements is not accepted directory name
-	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
-	at net.minecraft.class_7677$1.method_14421(class_7677.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3255.method_14392(class_3255.java:51) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3255.method_14407(class_3255.java:33) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3288.method_45274(class_3288.java:67) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3288.method_45275(class_3288.java:41) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3279.method_45272(class_3279.java:63) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3279.method_45271(class_3279.java:94) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3279.method_14453(class_3279.java:59) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3283.method_29212(class_3283.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3283.method_14445(class_3283.java:36) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29736(MinecraftServer.java:1464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7237$class_7238.method_42099(class_7237.java:91) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7237.method_42098(class_7237.java:27) ~[server-intermediary.jar:?]
-	at net.minecraft.server.Main.method_43612(Main.java:184) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43498(class_156.java:987) [server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43499(class_156.java:981) [server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
+	at knot/net.minecraft.class_7677$1.method_14421(class_7677.java:20) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3255.method_14392(class_3255.java:51) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3255.method_14407(class_3255.java:33) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3288.method_45274(class_3288.java:67) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3288.method_45275(class_3288.java:41) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3279.method_45272(class_3279.java:63) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3279.method_45271(class_3279.java:94) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3279.method_14453(class_3279.java:59) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3283.method_29212(class_3283.java:43) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3283.method_14445(class_3283.java:36) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29736(MinecraftServer.java:1464) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7237$class_7238.method_42099(class_7237.java:91) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_7237.method_42098(class_7237.java:27) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.method_43612(Main.java:184) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:987) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:981) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[00:14:40] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
-[00:14:40] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
-[00:14:41] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
-[00:14:41] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:tags/items/.DS_Store, ignoring
-[00:14:41] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:recipes/.DS_Store, ignoring
-[00:14:41] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:recipes/stripped_dark_oak_wood .json, ignoring
-[00:14:41] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:recipes/oneycomb Block.json, ignoring
-[00:14:41] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:advancements/.DS_Store, ignoring
-[00:14:41] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/.DS_Store, ignoring
-[00:14:41] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/decorations/.DS_Store, ignoring
-[00:14:42] [main/ERROR]: Parsing error loading recipe mini_blocks:ozidized_cut_copper
+[16:11:23] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
+[16:11:23] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
+[16:11:24] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
+[16:11:25] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:tags/items/.DS_Store, ignoring
+[16:11:25] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:recipes/.DS_Store, ignoring
+[16:11:25] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:recipes/stripped_dark_oak_wood .json, ignoring
+[16:11:25] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:recipes/oneycomb Block.json, ignoring
+[16:11:25] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/.DS_Store, ignoring
+[16:11:25] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/.DS_Store, ignoring
+[16:11:25] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/decorations/.DS_Store, ignoring
+[16:11:26] [main/ERROR]: Parsing error loading recipe mini_blocks:ozidized_cut_copper
 com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozidized_cut_copper"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:ozidized_cut_copper; Not a json array: {"item":"minecraft:ozidized_cut_copper"}; Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:ozidized_cut_copper"}]
-	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
-	at net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
+	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_4080.method_18790(class_4080.java:13) ~[server-intermediary.jar:?]
 	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43498(class_156.java:993) [server-intermediary.jar:?]
-	at net.minecraft.class_156.method_43499(class_156.java:981) [server-intermediary.jar:?]
-	at net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
-	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.3.jar:?]
-	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.3.jar:?]
+	at knot/net.minecraft.class_4014.method_18365(class_4014.java:69) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43498(class_156.java:993) [server-intermediary.jar:?]
+	at knot/net.minecraft.class_156.method_43499(class_156.java:981) [server-intermediary.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:182) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:480) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:74) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[00:14:42] [main/INFO]: Loaded 1898 recipes
-[00:14:42] [main/ERROR]: Parsing error loading custom advancement sozoka:root: No key id in MapLike[{"item":"minecraft:player_head","nbt":"{SkullOwner:SozoKa}"}]
-[00:14:42] [main/ERROR]: Parsing error loading custom advancement sitanywhere:dpsystem/icon: No key id in MapLike[{"item":"minecraft:mangrove_stairs"}]
-[00:14:42] [main/INFO]: Loaded 1933 advancements
-[00:14:42] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
-[00:14:42] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.430 ms
-[00:14:42] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[00:14:42] [Server thread/INFO]: Loading properties
-[00:14:42] [Server thread/INFO]: Default game type: SURVIVAL
-[00:14:42] [Server thread/INFO]: Generating keypair
-[00:14:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:14:43] [Server thread/INFO]: Using epoll channel type
-[00:14:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:14:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:14:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:14:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:14:43] [Server thread/INFO]: Preparing level "world"
-[00:14:43] [Server thread/INFO]: [CM] Loaded 3 settings from carpet.conf
-[00:14:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:14:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:14:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:14:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:47] [Server thread/INFO]: Time elapsed: 1818 ms
-[00:14:47] [Server thread/INFO]: Done (4.560s)! For help, type "help"
-[00:14:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[00:14:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[00:14:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[00:14:47] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[16:11:26] [main/INFO]: Loaded 1898 recipes
+[16:11:26] [main/ERROR]: Parsing error loading custom advancement sozoka:root: No key id in MapLike[{"item":"minecraft:player_head","nbt":"{SkullOwner:SozoKa}"}]
+[16:11:26] [main/ERROR]: Parsing error loading custom advancement sitanywhere:dpsystem/icon: No key id in MapLike[{"item":"minecraft:mangrove_stairs"}]
+[16:11:26] [main/INFO]: Loaded 1933 advancements
+[16:11:26] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
+[16:11:26] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.493 ms
+[16:11:26] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:11:26] [Server thread/INFO]: Loading properties
+[16:11:26] [Server thread/INFO]: Default game type: SURVIVAL
+[16:11:26] [Server thread/INFO]: Generating keypair
+[16:11:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:11:27] [Server thread/INFO]: Using epoll channel type
+[16:11:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:11:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:11:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:11:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:11:27] [Server thread/INFO]: Preparing level "world"
+[16:11:27] [Server thread/INFO]: [CM] Loaded 3 settings from carpet.conf
+[16:11:27] [Server thread/INFO]: Enforcing safe world random access
+[16:11:27] [Server thread/INFO]: Changing watch distance to 10
+[16:11:29] [Server thread/INFO]: Changing watch distance to 10
+[16:11:29] [Server thread/INFO]: Changing watch distance to 10
+[16:11:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:11:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:11:30] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:11:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:11:31] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:11:31] [Worker-Main-3/INFO]: Preparing spawn area: 26%
+[16:11:32] [Server thread/INFO]: Time elapsed: 2226 ms
+[16:11:32] [Server thread/INFO]: Done (4.849s)! For help, type "help"
+[16:11:32] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[16:11:32] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[16:11:32] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[16:11:32] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[16:11:32] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:11:32] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'their-estimates.gl.at.ply.gg:1586'
+[16:11:32] [Server thread/INFO]: Added 0 persistent groups
+[16:11:32] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 42069
+[16:11:55] [Server thread/INFO]: dmins[/127.184.238.152:59631] logged in with entity id 86 at (-207.30000001192093, 63.0, 238.356768060188)
+[16:11:55] [Server thread/INFO]: dmins joined the game
+[16:11:55] [Server thread/INFO]: [voicechat] Received secret request of dmins (18)
+[16:11:55] [Server thread/INFO]: [voicechat] Sent secret to dmins
+[16:11:56] [Server thread/INFO]: Async chunk loading for player dmins completed
+[16:11:56] [Server thread/INFO]: Player dmins joined with a matching carpet client
+[16:11:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
+[16:11:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
+[16:11:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
+[16:12:01] [Server thread/INFO]: dmins lost connection: Disconnected
+[16:12:01] [Server thread/INFO]: dmins left the game
+[16:12:01] [Server thread/INFO]: [voicechat] Disconnecting client dmins
+[16:12:12] [Server thread/INFO]: Stopping the server
+[16:12:12] [Server thread/INFO]: Stopping server
+[16:12:12] [Server thread/INFO]: Saving players
+[16:12:12] [Server thread/INFO]: Saving worlds
+[16:12:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[blitz]'/minecraft:overworld
+[16:12:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[blitz]'/minecraft:the_end
+[16:12:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[blitz]'/minecraft:the_nether
+[16:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:12:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
