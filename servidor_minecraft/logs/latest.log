@@ -240,3 +240,13 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [19:46:07] [Server thread/INFO]: dmins lost connection: Disconnected
 [19:46:07] [Server thread/INFO]: dmins left the game
 [19:46:07] [Server thread/INFO]: [voicechat] Disconnecting client dmins
+[19:47:25] [Server thread/INFO]: dmins[/127.122.212.189:48421] logged in with entity id 656 at (-209.296470866303, 63.0, 238.30000001192093)
+[19:47:25] [Server thread/INFO]: dmins joined the game
+[19:47:25] [Server thread/INFO]: Async chunk loading for player dmins completed
+[19:47:25] [Server thread/INFO]: [voicechat] Received secret request of dmins (18)
+[19:47:25] [Server thread/INFO]: [voicechat] Sent secret to dmins
+[19:47:26] [Server thread/INFO]: Player dmins joined with a matching carpet client
+[19:47:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
+[19:47:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
+[19:47:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
+[19:48:10] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
