@@ -250,3 +250,4 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [19:47:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
 [19:47:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
 [19:48:10] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
+[19:59:21] [Server thread/INFO]: dmins has made the advancement [Spooky Scary Skeleton]

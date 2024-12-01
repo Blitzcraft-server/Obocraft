@@ -1377,6 +1377,7 @@
     "criteria": {
       "minecraft:blaze": "2024-11-30 03:31:07 +0000",
       "minecraft:skeleton": "2024-11-30 02:14:13 +0000",
+      "minecraft:enderman": "2024-12-01 19:54:36 +0000",
       "minecraft:magma_cube": "2024-11-30 03:30:41 +0000",
       "minecraft:spider": "2024-11-30 02:03:36 +0000",
       "minecraft:wither_skeleton": "2024-11-30 03:02:41 +0000",
@@ -2043,6 +2044,18 @@
   "mini_blocks:recipes/decorations/chiseled_nether_bricks": {
     "criteria": {
       "has_block": "2024-12-01 00:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-01 19:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-01 19:59:21 +0000"
     },
     "done": true
   },
