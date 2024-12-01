@@ -1,0 +1,75 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:villager_workstation_highlights": {
+    "criteria": {
+      "tick": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dirt": {
+    "criteria": {
+      "has_block": "2024-12-01 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/moist_farmland": {
+    "criteria": {
+      "has_block": "2024-12-01 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/farmland": {
+    "criteria": {
+      "has_block": "2024-12-01 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dirt_path": {
+    "criteria": {
+      "has_block": "2024-12-01 00:05:52 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2024-12-01 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-12-01 00:04:59 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3839
+}
