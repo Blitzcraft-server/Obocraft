@@ -2528,6 +2528,12 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/piston_horizontal": {
+    "criteria": {
+      "has_block": "2024-12-02 18:51:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-02 18:34:55 +0000"
@@ -2651,6 +2657,12 @@
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
     "criteria": {
       "has_deepslate_lapis_ore": "2024-12-02 18:20:20 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/piston": {
+    "criteria": {
+      "has_block": "2024-12-02 18:51:29 +0000"
     },
     "done": true
   },

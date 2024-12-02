@@ -2787,5 +2787,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-02 18:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-02 18:50:12 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3839
 }
