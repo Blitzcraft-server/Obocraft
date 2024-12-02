@@ -247,3 +247,10 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [21:47:16] [Server thread/INFO]: Andrescph lost connection: Disconnected
 [21:47:16] [Server thread/INFO]: Andrescph left the game
 [21:47:16] [Server thread/INFO]: [voicechat] Disconnecting client Andrescph
+[22:03:34] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
+[22:03:59] [Server thread/INFO]: Portal located for entity class_3222['davidVengadrof'/365, l='ServerLevel[blitz]', x=1680.70, y=63.00, z=-738.65] at TeleportTarget{pitch=3.300015, position=(202.5, 60.0, -96.65387030672377), velocity=(0.0, -0.0784000015258789, 0.0), yaw=112.340576}
+[22:04:01] [Server thread/INFO]: davidVengadrof has made the advancement [We Need to Go Deeper]
+[22:04:18] [Server thread/INFO]: [dmins: dmins unsubscribed from tps.]
+[22:04:21] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
+[22:04:21] [Server thread/INFO]: [dmins: dmins unsubscribed from tps.]
+[22:04:22] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
