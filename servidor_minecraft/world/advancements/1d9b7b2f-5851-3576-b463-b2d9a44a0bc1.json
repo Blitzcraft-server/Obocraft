@@ -43,7 +43,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2024-12-02 18:13:09 +0000",
+      "minecraft:forest": "2024-12-02 18:21:05 +0000",
       "minecraft:river": "2024-11-30 01:37:16 +0000",
+      "minecraft:meadow": "2024-12-02 18:20:16 +0000",
       "minecraft:plains": "2024-11-30 01:33:02 +0000"
     },
     "done": false
@@ -400,6 +403,8 @@
     "criteria": {
       "mutton": "2024-11-30 01:39:30 +0000",
       "rotten_flesh": "2024-11-30 02:21:33 +0000",
+      "cooked_mutton": "2024-12-02 18:15:33 +0000",
+      "cooked_beef": "2024-12-02 18:06:10 +0000",
       "beef": "2024-11-30 01:38:25 +0000",
       "baked_potato": "2024-11-30 02:19:21 +0000",
       "carrot": "2024-11-30 01:43:20 +0000"
@@ -764,6 +769,7 @@
     "criteria": {
       "minecraft:cave_spider": "2024-11-30 02:03:55 +0000",
       "minecraft:skeleton": "2024-11-30 02:14:12 +0000",
+      "minecraft:spider": "2024-12-02 18:12:07 +0000",
       "minecraft:zombie": "2024-11-30 01:48:55 +0000"
     },
     "done": false
@@ -1227,6 +1233,138 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-11-30 02:18:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-02 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/white_wool": {
+    "criteria": {
+      "has_block": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-02 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/granite": {
+    "criteria": {
+      "has_block": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/granite": {
+    "criteria": {
+      "has_slab": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/granite": {
+    "criteria": {
+      "has_stairs": "2024-12-02 18:10:34 +0000"
     },
     "done": true
   },
