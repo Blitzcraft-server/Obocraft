@@ -420,3 +420,45 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [19:50:32] [Server thread/INFO]: davidVengadrof fell from a high place
 [19:50:34] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
 [19:50:56] [Server thread/INFO]: Portal located for entity class_3222['dmins'/6664, l='ServerLevel[blitz]', x=202.40, y=60.00, z=-97.10] at TeleportTarget{pitch=58.19995, position=(1680.5, 63.0, -739.102715940563), velocity=(0.0, -0.0784000015258789, 0.0), yaw=26.101257}
+[19:57:51] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
+[19:57:51] [Server thread/INFO]: Cchurrasco left the game
+[19:57:51] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
+[19:58:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=324, y=51, z=91} class_2338{x=324, y=50, z=92}
+[19:58:59] [Server thread/INFO]: Cchurrasco[/127.136.180.58:57687] logged in with entity id 54788 at (280.38351229044304, 53.0, 68.30000001192093)
+[19:58:59] [Server thread/INFO]: Cchurrasco joined the game
+[19:58:59] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
+[19:59:00] [Server thread/INFO]: [voicechat] Received secret request of Cchurrasco (18)
+[19:59:00] [Server thread/INFO]: [voicechat] Sent secret to Cchurrasco
+[19:59:02] [Server thread/INFO]: Player Cchurrasco joined with a matching carpet client
+[19:59:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d3c71c10-9906-32ee-a192-5795920d89bd
+[19:59:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d3c71c10-9906-32ee-a192-5795920d89bd
+[19:59:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cchurrasco (d3c71c10-9906-32ee-a192-5795920d89bd) successfully connected to voice chat
+[19:59:18] [Server thread/INFO]: [Not Secure] <Alegria11293> 480 -1|76
+[19:59:22] [Server thread/INFO]: [Not Secure] <Alegria11293> 480 -176
+[19:59:28] [Server thread/INFO]: [Not Secure] <Alegria11293> 320 96
+[20:00:05] [Server thread/INFO]: Villager class_1646['Unemployed'/51548, l='ServerLevel[blitz]', x=1650.73, y=65.00, z=-714.67] died, message: 'Unemployed burned to death'
+[20:00:17] [Server thread/INFO]: Villager class_1646['Unemployed'/51547, l='ServerLevel[blitz]', x=1656.50, y=64.00, z=-720.76] died, message: 'Unemployed burned to death'
+[20:00:26] [Server thread/INFO]: davidVengadrof has made the advancement [A Seedy Place]
+[20:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=355, y=48, z=63} class_2338{x=356, y=48, z=63}
+[20:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=355, y=48, z=63} class_2338{x=356, y=48, z=63}
+[20:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=355, y=48, z=63} class_2338{x=356, y=48, z=63}
+[20:02:12] [Server thread/INFO]: davidVengadrof has made the advancement [The Parrots and the Bats]
+[20:07:02] [Server thread/INFO]: Alegria11293 has made the advancement [Those Were the Days]
+[20:07:14] [Server thread/INFO]: Cchurrasco has made the advancement [Those Were the Days]
+[20:08:01] [Server thread/INFO]: Alegria11293 has made the advancement [Hot Stuff]
+[20:08:40] [Server thread/INFO]: Alegria11293 has made the advancement [War Pigs]
+[20:08:45] [Server thread/INFO]: Alegria11293 has made the advancement [Who is Cutting Onions?]
+[20:09:38] [Server thread/INFO]: Cchurrasco burned to death
+[20:09:40] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
+[20:09:55] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/54788, l='ServerLevel[blitz]', x=1680.70, y=63.00, z=-738.43] at TeleportTarget{pitch=32.849987, position=(202.5, 60.0, -96.4302994697922), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-174.90001}
+[20:10:19] [Server thread/INFO]: Cchurrasco tried to swim in lava to escape Hoglin
+[20:10:20] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
+[20:10:33] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/54788, l='ServerLevel[blitz]', x=1680.68, y=63.00, z=-739.53] at TeleportTarget{pitch=66.299995, position=(202.5, 60.0, -97.52647107194628), velocity=(0.0, -0.0784000015258789, 0.0), yaw=136.49976}
+[20:12:09] [Server thread/INFO]: Cchurrasco fell from a high place
+[20:12:12] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
+[20:12:38] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:13:46] [Server thread/INFO]: [Alegria11293: Set own game mode to Spectator Mode]
+[20:13:56] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:16:39] [Server thread/INFO]: [Alegria11293: Teleported Alegria11293 to 200.500000, 64.254449, -99.500000]
+[20:16:46] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/7, l='ServerLevel[blitz]', x=201.76, y=60.00, z=-96.70] at TeleportTarget{pitch=37.949944, position=(1680.5, 63.0, -738.701219709446), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-97.80166}
+[20:16:52] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]

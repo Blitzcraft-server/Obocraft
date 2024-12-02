@@ -1764,6 +1764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-02 19:59:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2024-12-02 19:13:26 +0000"
@@ -1842,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-02 20:02:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-02 19:34:15 +0000"
@@ -1860,6 +1872,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-02 19:59:02 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/cobblestone_from_stairs": {
     "criteria": {
       "has_block": "2024-12-02 19:34:14 +0000"
@@ -1875,6 +1893,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-02 19:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-02 19:59:59 +0000"
     },
     "done": true
   },
@@ -1919,6 +1943,12 @@
       "has_mossy_cobblestone": "2024-12-02 19:34:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-02 20:02:12 +0000"
+    },
+    "done": false
   },
   "mini_blocks:recipes/decorations/gravel": {
     "criteria": {
@@ -1986,6 +2016,12 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/stripped_oak_wood": {
+    "criteria": {
+      "has_block": "2024-12-02 20:07:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 19:30:05 +0000"
@@ -1995,6 +2031,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-02 19:51:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-02 19:59:02 +0000"
     },
     "done": true
   },
@@ -2016,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-02 20:00:26 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_block": "2024-12-02 19:16:19 +0000"
@@ -2025,6 +2073,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/mossy_cobblestone": {
     "criteria": {
       "has_stairs": "2024-12-02 19:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-02 19:59:02 +0000"
     },
     "done": true
   },
