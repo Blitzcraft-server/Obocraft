@@ -2482,9 +2482,21 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/glowstone": {
+    "criteria": {
+      "has_block": "2024-12-02 19:31:52 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/iron_ore": {
     "criteria": {
       "has_block": "2024-12-02 18:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
     },
     "done": true
   },
@@ -2497,6 +2509,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-02 18:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
     },
     "done": true
   },
@@ -2548,6 +2566,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/dark_oak_planks": {
+    "criteria": {
+      "has_slab": "2024-12-02 19:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-02 18:34:55 +0000"
@@ -2590,9 +2620,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-02 18:32:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
     },
     "done": true
   },
@@ -2602,9 +2644,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-02 19:24:47 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/dark_oak_planks": {
+    "criteria": {
+      "has_stairs": "2024-12-02 19:27:45 +0000"
     },
     "done": true
   },
@@ -2680,6 +2746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-12-02 19:31:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
     "criteria": {
       "has_deepslate_iron_ore": "2024-12-02 18:19:14 +0000"
@@ -2689,6 +2761,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-02 18:32:56 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dark_oak_planks": {
+    "criteria": {
+      "has_block": "2024-12-02 19:27:45 +0000"
     },
     "done": true
   },
@@ -2719,6 +2797,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-02 18:22:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-02 19:27:45 +0000"
     },
     "done": true
   },

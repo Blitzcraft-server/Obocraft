@@ -390,3 +390,18 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [19:25:07] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
 [19:25:43] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
 [19:26:07] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[19:26:48] [Server thread/INFO]: Cchurrasco has made the advancement [Cover Me with Diamonds]
+[19:26:50] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[19:27:02] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[19:28:17] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/32350, l='ServerLevel[blitz]', x=1680.46, y=63.00, z=-738.85] at TeleportTarget{pitch=27.149822, position=(202.5, 60.0, -96.84599800564752), velocity=(0.0, -0.0784000015258789, 0.0), yaw=102.50226}
+[19:28:18] [Server thread/INFO]: Cchurrasco has made the advancement [We Need to Go Deeper]
+[19:30:15] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/32350, l='ServerLevel[blitz]', x=202.70, y=60.00, z=-96.99] at TeleportTarget{pitch=21.74992, position=(1680.5, 63.0, -738.9920069675153), velocity=(0.0, -0.0784000015258789, 0.0), yaw=37.402466}
+[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
+[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
+[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
+[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
+[19:30:37] [Server thread/INFO]: davidVengadrof has made the advancement [Cover Me with Diamonds]
+[19:33:20] [Server thread/INFO]: Cchurrasco has made the advancement [What a Deal!]
+[19:34:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1646, y=67, z=-714} class_2338{x=1648, y=68, z=-712}
+[19:34:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1646, y=67, z=-714} class_2338{x=1648, y=68, z=-716}
+[19:34:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1646, y=68, z=-715} class_2338{x=1646, y=68, z=-714}

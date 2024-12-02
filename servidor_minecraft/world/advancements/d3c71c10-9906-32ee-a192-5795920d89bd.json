@@ -1196,9 +1196,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-02 19:28:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-02 19:28:18 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/spruce_log_horizontal": {
     "criteria": {
       "has_block": "2024-12-02 19:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2024-12-02 19:26:48 +0000"
     },
     "done": true
   },
@@ -1214,15 +1232,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-02 19:33:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-02 19:17:14 +0000"
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/netherrack": {
+    "criteria": {
+      "has_block": "2024-12-02 19:28:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-02 19:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-02 19:33:20 +0000"
     },
     "done": true
   },
@@ -1268,6 +1304,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-02 19:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-02 19:15:35 +0000"
@@ -1307,6 +1349,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-02 19:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-02 19:28:23 +0000"
     },
     "done": true
   },
