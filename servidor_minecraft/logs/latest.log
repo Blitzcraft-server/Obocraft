@@ -250,3 +250,10 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [01:57:53] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to mobcaps.]
 [01:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
 [01:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
+[02:07:38] [Server thread/INFO]: Villager class_1646['Weaponsmith'/104, l='ServerLevel[blitz]', x=1685.57, y=65.00, z=-754.56] died, message: 'Weaponsmith burned to death'
+[02:12:02] [Server thread/INFO]: Villager class_1646['Fletcher'/13, l='ServerLevel[blitz]', x=1661.42, y=64.94, z=-726.57] died, message: 'Fletcher burned to death'
+[02:12:57] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[02:13:05] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[02:13:09] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[02:13:34] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[02:14:48] [Server thread/INFO]: Alegria11293 has made the advancement [Enchanter]
