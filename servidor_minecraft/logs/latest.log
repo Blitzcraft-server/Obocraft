@@ -254,3 +254,24 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [22:04:21] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
 [22:04:21] [Server thread/INFO]: [dmins: dmins unsubscribed from tps.]
 [22:04:22] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
+[22:17:21] [Server thread/INFO]: Villager class_1646['Unemployed'/137, l='ServerLevel[blitz]', x=1655.50, y=68.28, z=-720.51] died, message: 'Unemployed suffocated in a wall'
+[22:18:03] [Server thread/INFO]: davidVengadrof has made the advancement [Hidden in the Depths]
+[22:19:46] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:19:57] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:20:02] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:20:10] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:20:20] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:20:25] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:20:30] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:20:38] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:21:17] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:21:22] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:21:27] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
+[22:21:37] [Server thread/INFO]: Portal located for entity class_3222['davidVengadrof'/365, l='ServerLevel[blitz]', x=202.16, y=60.00, z=-97.04] at TeleportTarget{pitch=21.600012, position=(1680.5, 63.0, -739.0414001941922), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-29.258545}
+[22:21:48] [Server thread/INFO]: davidVengadrof lost connection: Disconnected
+[22:21:48] [Server thread/INFO]: davidVengadrof left the game
+[22:21:48] [Server thread/INFO]: [voicechat] Disconnecting client davidVengadrof
+[22:24:18] [Server thread/INFO]: Made dmins a server operator
+[22:24:47] [Server thread/INFO]: dmins lost connection: Disconnected
+[22:24:47] [Server thread/INFO]: dmins left the game
+[22:24:47] [Server thread/INFO]: [voicechat] Disconnecting client dmins
