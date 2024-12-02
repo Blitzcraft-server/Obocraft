@@ -867,7 +867,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-02 19:49:25 +0000",
       "minecraft:skeleton": "2024-12-02 00:26:54 +0000",
+      "minecraft:piglin": "2024-12-02 19:52:34 +0000",
+      "minecraft:wither_skeleton": "2024-12-02 19:49:34 +0000",
       "minecraft:zombie": "2024-12-02 00:17:24 +0000"
     },
     "done": false
@@ -1198,6 +1201,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-02 19:45:46 +0000",
       "minecraft:nether_wastes": "2024-12-02 19:28:19 +0000"
     },
     "done": false
@@ -1208,9 +1212,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-02 19:49:59 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/spruce_log_horizontal": {
     "criteria": {
       "has_block": "2024-12-02 19:17:14 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/nether_bricks": {
+    "criteria": {
+      "has_block": "2024-12-02 19:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-02 19:49:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-02 19:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
     },
     "done": true
   },
@@ -1238,6 +1278,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-02 19:49:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-02 19:17:14 +0000"
@@ -1247,6 +1299,12 @@
   "mini_blocks:recipes/decorations/netherrack": {
     "criteria": {
       "has_block": "2024-12-02 19:28:23 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/nether_bricks": {
+    "criteria": {
+      "has_stairs": "2024-12-02 19:49:53 +0000"
     },
     "done": true
   },
@@ -1265,6 +1323,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-02 19:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
     },
     "done": true
   },
@@ -1304,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-02 19:28:18 +0000"
@@ -1313,6 +1383,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
     },
     "done": true
   },
@@ -1328,9 +1404,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/dark_oak_planks": {
     "criteria": {
       "has_block": "2024-12-02 19:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-02 19:49:29 +0000"
     },
     "done": true
   },
@@ -1340,9 +1428,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/dark_oak_log_horizontal": {
     "criteria": {
       "has_block": "2024-12-02 19:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-02 19:49:53 +0000"
     },
     "done": true
   },
@@ -1352,15 +1452,33 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-02 19:48:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-02 19:28:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-02 19:49:29 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/spruce_log": {
     "criteria": {
       "has_block": "2024-12-02 19:17:14 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/nether_bricks": {
+    "criteria": {
+      "has_slab": "2024-12-02 19:49:53 +0000"
     },
     "done": true
   },

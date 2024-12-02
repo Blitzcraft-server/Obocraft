@@ -410,3 +410,13 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [19:43:31] [Server thread/INFO]: [Not Secure] <Alegria11293> 200 -100
 [19:44:46] [Server thread/INFO]: Villager class_1646['Fletcher'/16910, l='ServerLevel[blitz]', x=1657.50, y=70.23, z=-720.51] died, message: 'Fletcher was slain by dmins'
 [19:44:54] [Server thread/INFO]: [Not Secure] <Cchurrasco> 279 11
+[19:48:14] [Server thread/INFO]: Alegria11293 has made the advancement [Spooky Scary Skeleton]
+[19:48:26] [Server thread/INFO]: Cchurrasco has made the advancement [Take Aim]
+[19:48:29] [Server thread/INFO]: Alegria11293 has made the advancement [A Terrible Fortress]
+[19:48:35] [Server thread/INFO]: Alegria11293 has made the advancement [Into Fire]
+[19:48:49] [Server thread/INFO]: Cchurrasco has made the advancement [A Terrible Fortress]
+[19:49:07] [Server thread/INFO]: Portal located for entity class_3222['dmins'/6664, l='ServerLevel[blitz]', x=1680.08, y=63.00, z=-738.59] at TeleportTarget{pitch=13.799974, position=(202.5, 60.0, -96.58636886170802), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-61.049484}
+[19:49:29] [Server thread/INFO]: Cchurrasco has made the advancement [Into Fire]
+[19:50:32] [Server thread/INFO]: davidVengadrof fell from a high place
+[19:50:34] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
+[19:50:56] [Server thread/INFO]: Portal located for entity class_3222['dmins'/6664, l='ServerLevel[blitz]', x=202.40, y=60.00, z=-97.10] at TeleportTarget{pitch=58.19995, position=(1680.5, 63.0, -739.102715940563), velocity=(0.0, -0.0784000015258789, 0.0), yaw=26.101257}
