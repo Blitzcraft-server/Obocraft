@@ -487,3 +487,43 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [20:26:47] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
 [20:26:50] [Server thread/INFO]: Alegria11293 has made the advancement [Hidden in the Depths]
 [20:26:59] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:27:54] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:28:24] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:28:29] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:34:20] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:35:11] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:35:35] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:35:44] [Server thread/INFO]: [Alegria11293: Summoned new Piglin]
+[20:35:48] [Server thread/INFO]: Alegria11293 has made the advancement [Oh Shiny]
+[20:36:31] [Server thread/INFO]: Portal not located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-100.07, y=57.00, z=-10.17] at null
+[20:37:18] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-807.34, y=63.00, z=-70.44] at TeleportTarget{pitch=30.29998, position=(-99.5, 57.0, -10.442003437189356), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-116.252525}
+[20:37:33] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-60.57, y=65.00, z=18.30] at TeleportTarget{pitch=20.399979, position=(-533.5, -54.0, 126.30000001192093), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-126.45267}
+[20:37:36] [Server thread/INFO]: Cchurrasco has made the advancement [Enchanter]
+[20:37:44] [Server thread/INFO]: [Alegria11293: Set own game mode to Adventure Mode]
+[20:37:57] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:37:58] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:38:05] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-533.13, y=-54.00, z=127.23] at TeleportTarget{pitch=36.75002, position=(-60.5, 65.0, 19.23077735593631), velocity=(0.0, -0.0784000015258789, 0.0), yaw=1.3474731}
+[20:38:20] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:38:21] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-60.29, y=65.00, z=19.50] at TeleportTarget{pitch=23.250015, position=(-533.5, -54.0, 127.5020646661389), velocity=(0.0, -0.0784000015258789, 0.0), yaw=11.997471}
+[20:39:19] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:39:21] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:39:46] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-533.50, y=-54.00, z=126.54] at TeleportTarget{pitch=17.550045, position=(-60.5, 65.0, 18.53513230800577), velocity=(0.0, -0.0784000015258789, 0.0), yaw=130.94708}
+[20:40:14] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:40:17] [Server thread/INFO]: Villager class_1646['Unemployed'/80086, l='ServerLevel[blitz]', x=-28.50, y=89.00, z=-25.21] died, message: 'Unemployed was slain by Alegria11293'
+[20:40:24] [Server thread/INFO]: Villager class_1646['Unemployed'/80096, l='ServerLevel[blitz]', x=-33.11, y=88.00, z=-29.82] died, message: 'Unemployed was slain by Alegria11293'
+[20:40:28] [Server thread/INFO]: Villager class_1646['Nitwit'/80085, l='ServerLevel[blitz]', x=-16.49, y=82.00, z=-38.78] died, message: 'Nitwit was slain by Alegria11293'
+[20:40:37] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-31.58, y=90.00, z=-15.30] at TeleportTarget{pitch=25.05007, position=(-251.5, 90.0, -134.30000001192093), velocity=(0.0, -0.0784000015258789, 0.0), yaw=53.69684}
+[20:40:50] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:41:20] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-250.87, y=90.00, z=-135.25] at TeleportTarget{pitch=30.750063, position=(-31.5, 90.0, -16.245353964361755), velocity=(-0.0885512271792284, -0.0784000015258789, -0.05329505665202502), yaw=121.49695}
+[20:41:33] [Server thread/INFO]: [Alegria11293: Teleported Alegria11293 to 200.500000, 89.875000, -99.500000]
+[20:41:56] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:42:03] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=202.30, y=60.00, z=-96.50] at TeleportTarget{pitch=44.250008, position=(1680.5, 63.0, -738.5041605894045), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-83.702934}
+[20:42:17] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:42:31] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:43:40] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:43:47] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:44:16] [Server thread/INFO]: Alegria11293 has completed the challenge [Cover Me in Debris]
+[20:45:57] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:46:00] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
+[20:46:02] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[20:46:04] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]

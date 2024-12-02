@@ -18,6 +18,7 @@
       "minecraft:jungle": "2024-12-01 21:31:22 +0000",
       "minecraft:meadow": "2024-12-01 21:29:35 +0000",
       "minecraft:savanna": "2024-12-01 22:06:04 +0000",
+      "minecraft:wooded_badlands": "2024-12-02 20:37:53 +0000",
       "minecraft:plains": "2024-11-30 01:12:46 +0000",
       "minecraft:warm_ocean": "2024-12-01 21:41:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-01 22:29:10 +0000"
@@ -1395,6 +1396,7 @@
       "minecraft:wither_skeleton": "2024-11-30 03:02:41 +0000",
       "minecraft:zombie": "2024-11-30 02:03:55 +0000",
       "minecraft:creeper": "2024-11-30 02:13:06 +0000",
+      "minecraft:zombie_villager": "2024-12-02 20:38:08 +0000",
       "minecraft:ghast": "2024-12-01 20:48:40 +0000"
     },
     "done": false
@@ -2817,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 20:42:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-02 20:11:02 +0000"
@@ -2835,6 +2843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 20:42:36 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/andesite": {
     "criteria": {
       "has_stairs": "2024-12-02 20:11:02 +0000"
@@ -2844,6 +2858,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-02 20:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 20:42:36 +0000"
     },
     "done": true
   },
@@ -2859,9 +2879,21 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/amethyst_block": {
+    "criteria": {
+      "has_block": "2024-12-02 20:42:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-02 20:11:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-02 20:42:36 +0000"
     },
     "done": true
   },
@@ -2883,9 +2915,27 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/smooth_basalt": {
+    "criteria": {
+      "has_block": "2024-12-02 20:42:32 +0000"
+    },
+    "done": true
+  },
   "mini_blocks:recipes/decorations/piston": {
     "criteria": {
       "has_block": "2024-12-02 20:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 20:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-02 20:28:42 +0000"
     },
     "done": true
   },

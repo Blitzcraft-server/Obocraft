@@ -1490,6 +1490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-02 20:40:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
@@ -1568,6 +1574,18 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_block": "2024-12-02 20:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 20:37:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
@@ -1643,6 +1661,12 @@
   "mini_blocks:recipes/decorations/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_block": "2024-12-02 20:08:39 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/emerald_block": {
+    "criteria": {
+      "has_block": "2024-12-02 20:40:27 +0000"
     },
     "done": true
   },
