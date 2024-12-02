@@ -2131,5 +2131,107 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/dark_oak_log": {
+    "criteria": {
+      "has_block": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/dark_oak_planks": {
+    "criteria": {
+      "has_slab": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/dark_oak_planks": {
+    "criteria": {
+      "has_stairs": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dark_oak_log_rotated": {
+    "criteria": {
+      "has_block": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dark_oak_planks": {
+    "criteria": {
+      "has_block": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dark_oak_log_horizontal": {
+    "criteria": {
+      "has_block": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-02 21:09:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3839
 }

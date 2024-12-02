@@ -532,3 +532,28 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 [21:02:59] [Server thread/INFO]: davidVengadrof joined the game
 [21:02:59] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
 [21:07:36] [Server thread/INFO]: Villager class_1646['Unemployed'/93745, l='ServerLevel[blitz]', x=1655.78, y=66.00, z=-723.50] died, message: 'Unemployed burned to death'
+[21:09:36] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
+[21:09:36] [Server thread/INFO]: Cchurrasco left the game
+[21:09:36] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
+[21:10:19] [Server thread/INFO]: Cchurrasco[/127.136.180.58:45079] logged in with entity id 100610 at (1650.81654391014, 66.0, -714.7587514055284)
+[21:10:19] [Server thread/INFO]: Cchurrasco joined the game
+[21:10:19] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
+[21:10:19] [Server thread/INFO]: [voicechat] Received secret request of Cchurrasco (18)
+[21:10:19] [Server thread/INFO]: [voicechat] Sent secret to Cchurrasco
+[21:10:21] [Server thread/INFO]: Player Cchurrasco joined with a matching carpet client
+[21:10:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d3c71c10-9906-32ee-a192-5795920d89bd
+[21:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d3c71c10-9906-32ee-a192-5795920d89bd
+[21:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cchurrasco (d3c71c10-9906-32ee-a192-5795920d89bd) successfully connected to voice chat
+[21:13:02] [Server thread/INFO]: Alegria11293 lost connection: Disconnected
+[21:13:02] [Server thread/INFO]: Alegria11293 left the game
+[21:13:02] [Server thread/INFO]: [voicechat] Disconnecting client Alegria11293
+[21:13:17] [Server thread/INFO]: Made Alegria11293 no longer a server operator
+[21:14:25] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
+[21:14:25] [Server thread/INFO]: Cchurrasco left the game
+[21:14:25] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
+[21:14:28] [Server thread/INFO]: Andrescph[/127.172.95.49:40047] logged in with entity id 101449 at (-34.5, 72.0, -36.5)
+[21:14:28] [Server thread/INFO]: Andrescph joined the game
+[21:14:28] [Server thread/INFO]: Async chunk loading for player Andrescph completed
+[21:14:39] [Server thread/INFO]: [Not Secure] <Andrescph> donde estan?
+[21:15:15] [Server thread/INFO]: [Not Secure] <davidVengadrof> 1600 -700
+[21:17:05] [Server thread/WARN]: Andrescph moved wrongly!

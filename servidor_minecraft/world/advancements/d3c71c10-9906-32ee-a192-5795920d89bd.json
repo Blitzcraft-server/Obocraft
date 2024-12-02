@@ -1484,36 +1484,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2024-12-02 20:40:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/gold_block": {
-    "criteria": {
-      "has_block": "2024-12-02 20:08:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2024-12-02 20:08:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
@@ -1523,12 +1493,6 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-02 20:05:18 +0000"
     },
     "done": true
   },
@@ -1544,12 +1508,6 @@
     },
     "done": true
   },
-  "mini_blocks:recipes/decorations/grindstone_wall": {
-    "criteria": {
-      "has_block": "2024-12-02 20:45:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
@@ -1562,33 +1520,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_helmet": "2024-12-02 20:05:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_block": "2024-12-02 20:35:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-02 20:37:36 +0000"
     },
     "done": true
   },
@@ -1598,45 +1532,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2024-12-02 20:16:09 +0000"
-    },
-    "done": true
-  },
-  "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_blackstone_bricks": {
-    "criteria": {
-      "has_slab": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/basalt": {
-    "criteria": {
-      "has_block": "2024-12-02 20:09:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-12-02 20:18:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/combat/golden_sword": {
     "criteria": {
-      "has_rail": "2024-12-02 20:18:09 +0000"
+      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-02 20:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-02 20:05:18 +0000"
     },
     "done": true
   },
@@ -1646,21 +1580,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "has_basalt": "2024-12-02 20:09:26 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/polished_blackstone_bricks": {
-    "criteria": {
-      "has_block": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2024-12-02 20:16:09 +0000"
+      "bastion": "2024-12-02 20:07:14 +0000"
     },
     "done": true
   },
@@ -1670,27 +1592,51 @@
     },
     "done": true
   },
-  "mini_blocks:recipes/decorations/emerald_block": {
+  "mini_blocks:recipes/decorations/gold_block": {
     "criteria": {
-      "has_block": "2024-12-02 20:40:27 +0000"
+      "has_block": "2024-12-02 20:08:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_minecart": "2024-12-02 20:16:09 +0000"
+      "has_gold_block": "2024-12-02 20:08:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_minecart": "2024-12-02 20:16:09 +0000"
+      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
     },
     "done": true
   },
-  "mini_blocks:recipes/decorations/grindstone": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
-      "has_block": "2024-12-02 20:45:42 +0000"
+      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_blackstone_bricks": {
+    "criteria": {
+      "has_slab": "2024-12-02 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/polished_blackstone_bricks": {
+    "criteria": {
+      "has_block": "2024-12-02 20:09:05 +0000"
     },
     "done": true
   },
@@ -1706,27 +1652,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-02 20:09:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2024-12-02 20:09:26 +0000"
     },
     "done": true
   },
@@ -1736,21 +1664,21 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "mini_blocks:recipes/decorations/basalt": {
     "criteria": {
-      "bastion": "2024-12-02 20:07:14 +0000"
+      "has_block": "2024-12-02 20:09:26 +0000"
     },
     "done": true
   },
-  "mini_blocks:recipes/decorations/blast_furnace": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "has_block": "2024-12-02 20:48:55 +0000"
+      "has_basalt": "2024-12-02 20:09:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
-      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
+      "has_basalt": "2024-12-02 20:09:26 +0000"
     },
     "done": true
   },
@@ -1760,21 +1688,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/powered_rail": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_rail": "2024-12-02 20:18:09 +0000"
+      "has_minecart": "2024-12-02 20:16:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "has_gold_ingot": "2024-12-02 20:05:04 +0000"
+      "has_minecart": "2024-12-02 20:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-02 20:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2024-12-02 20:16:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2024-12-02 20:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 20:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 20:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-02 20:18:09 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_block": "2024-12-02 20:35:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 20:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-02 20:40:27 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/emerald_block": {
+    "criteria": {
+      "has_block": "2024-12-02 20:40:27 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/grindstone_wall": {
+    "criteria": {
+      "has_block": "2024-12-02 20:45:42 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_block": "2024-12-02 20:45:42 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_block": "2024-12-02 20:48:55 +0000"
     },
     "done": true
   },
