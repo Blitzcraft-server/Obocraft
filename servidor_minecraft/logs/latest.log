@@ -1,5 +1,5 @@
-[01:56:49] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.16.9
-[01:56:50] [main/INFO]: Loading 81 mods:
+[16:18:01] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.16.9
+[16:18:01] [main/INFO]: Loading 81 mods:
 	- appleskin 3.0.5+mc1.20.5
 	   \-- cloth-config 14.0.126
 	        \-- cloth-basic-math 0.6.1
@@ -99,47 +99,47 @@
 	   |-- fabric-api-base 0.4.40+80f8cf51ff
 	   |-- fabric-command-api-v2 2.2.24+80f8cf51ff
 	   \-- fabric-key-binding-api-v1 1.0.45+80f8cf51ff
-[01:56:50] [main/WARN]: Found 1 non-fabric mod:
+[16:18:01] [main/WARN]: Found 1 non-fabric mod:
 	- MinecraftOfflineOnlineConverter_3-BETA_1.jar
-[01:56:50] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Obocraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:56:50] [main/INFO]: Compatibility level set to JAVA_21
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[01:56:51] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[01:56:51] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[01:56:51] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[01:56:51] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[01:56:51] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
-[01:56:51] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
-[01:56:51] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 1 override(s) found
-[01:56:51] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
-[01:56:52] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[01:56:52] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[01:56:53] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:57:02] [main/INFO]: [voicechat] Compatibility version 18
-[01:57:02] [main/INFO]: [voicechat] Loading plugins
-[01:57:02] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[01:57:02] [main/INFO]: [voicechat] Initializing plugins
-[01:57:02] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[01:57:02] [main/INFO]: [voicechat] Registering events for 'enhancedgroups'
-[01:57:02] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:57:03] [main/ERROR]: Couldn't load overlays metadata
+[16:18:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Obocraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[16:18:01] [main/INFO]: Compatibility level set to JAVA_21
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[16:18:02] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:18:02] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[16:18:02] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[16:18:02] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[16:18:02] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[16:18:02] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[16:18:02] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 1 override(s) found
+[16:18:02] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[16:18:02] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[16:18:02] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[16:18:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[16:18:12] [main/INFO]: [voicechat] Compatibility version 18
+[16:18:12] [main/INFO]: [voicechat] Loading plugins
+[16:18:12] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[16:18:12] [main/INFO]: [voicechat] Initializing plugins
+[16:18:12] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[16:18:12] [main/INFO]: [voicechat] Registering events for 'enhancedgroups'
+[16:18:12] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:18:12] [main/ERROR]: Couldn't load overlays metadata
 com.google.gson.JsonParseException: minecraft/tags/function is not accepted directory name; minecraft/tags/functions is not accepted directory name; sozoka/advancement is not accepted directory name; sozoka/advancements is not accepted directory name
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
 	at knot/net.minecraft.class_7677$1.method_14421(class_7677.java:20) ~[server-intermediary.jar:?]
@@ -164,17 +164,17 @@ com.google.gson.JsonParseException: minecraft/tags/function is not accepted dire
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[01:57:03] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
-[01:57:03] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
-[01:57:04] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
-[01:57:05] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:tags/items/.DS_Store, ignoring
-[01:57:05] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:recipes/.DS_Store, ignoring
-[01:57:05] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:recipes/stripped_dark_oak_wood .json, ignoring
-[01:57:05] [Worker-Main-1/WARN]: Invalid path in datapack: mini_blocks:recipes/oneycomb Block.json, ignoring
-[01:57:05] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/.DS_Store, ignoring
-[01:57:05] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/.DS_Store, ignoring
-[01:57:05] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/decorations/.DS_Store, ignoring
-[01:57:05] [main/ERROR]: Parsing error loading recipe mini_blocks:ozidized_cut_copper
+[16:18:12] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
+[16:18:12] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
+[16:18:13] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
+[16:18:14] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:tags/items/.DS_Store, ignoring
+[16:18:14] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:recipes/.DS_Store, ignoring
+[16:18:14] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:recipes/stripped_dark_oak_wood .json, ignoring
+[16:18:14] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:recipes/oneycomb Block.json, ignoring
+[16:18:14] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:advancements/.DS_Store, ignoring
+[16:18:14] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/.DS_Store, ignoring
+[16:18:14] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/decorations/.DS_Store, ignoring
+[16:18:14] [main/ERROR]: Parsing error loading recipe mini_blocks:ozidized_cut_copper
 com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozidized_cut_copper"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:ozidized_cut_copper; Not a json array: {"item":"minecraft:ozidized_cut_copper"}; Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:ozidized_cut_copper"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -191,70 +191,98 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[01:57:05] [main/INFO]: Loaded 1898 recipes
-[01:57:05] [main/ERROR]: Parsing error loading custom advancement sozoka:root: No key id in MapLike[{"item":"minecraft:player_head","nbt":"{SkullOwner:SozoKa}"}]
-[01:57:06] [main/ERROR]: Parsing error loading custom advancement sitanywhere:dpsystem/icon: No key id in MapLike[{"item":"minecraft:mangrove_stairs"}]
-[01:57:06] [main/INFO]: Loaded 1933 advancements
-[01:57:06] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
-[01:57:06] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.238 ms
-[01:57:06] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[01:57:06] [Server thread/INFO]: Loading properties
-[01:57:06] [Server thread/INFO]: Default game type: SURVIVAL
-[01:57:06] [Server thread/INFO]: Generating keypair
-[01:57:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:57:07] [Server thread/INFO]: Using epoll channel type
-[01:57:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:57:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:57:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:57:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:57:07] [Server thread/INFO]: Preparing level "world"
-[01:57:07] [Server thread/INFO]: [CM] Loaded 7 settings from carpet.conf
-[01:57:07] [Server thread/INFO]: Enforcing safe world random access
-[01:57:07] [Server thread/INFO]: Changing watch distance to 10
-[01:57:10] [Server thread/INFO]: Changing watch distance to 10
-[01:57:10] [Server thread/INFO]: Changing watch distance to 10
-[01:57:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:57:11] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:57:11] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:57:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:57:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:13] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[01:57:13] [Server thread/INFO]: Time elapsed: 2894 ms
-[01:57:13] [Server thread/INFO]: Done (6.585s)! For help, type "help"
-[01:57:13] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[01:57:13] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[01:57:13] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[01:57:13] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[01:57:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[01:57:13] [Server thread/INFO]: Added 0 persistent groups
-[01:57:13] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'their-estimates.gl.at.ply.gg:1586'
-[01:57:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 42069
-[01:57:36] [Server thread/INFO]: Alegria11293[/127.71.54.31:37741] logged in with entity id 7 at (1658.8542519713803, 66.0, -722.484206564815)
-[01:57:36] [Server thread/INFO]: Alegria11293 joined the game
-[01:57:36] [Server thread/INFO]: [voicechat] Received secret request of Alegria11293 (18)
-[01:57:36] [Server thread/INFO]: [voicechat] Sent secret to Alegria11293
-[01:57:37] [Server thread/INFO]: Async chunk loading for player Alegria11293 completed
-[01:57:44] [Server thread/INFO]: Player Alegria11293 joined with a matching carpet client
-[01:57:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06afecaa-34b2-3f4f-8781-666370e8082f
-[01:57:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06afecaa-34b2-3f4f-8781-666370e8082f
-[01:57:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Alegria11293 (06afecaa-34b2-3f4f-8781-666370e8082f) successfully connected to voice chat
-[01:57:50] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to tps.]
-[01:57:51] [Server thread/INFO]: dmins[/127.122.212.189:35297] logged in with entity id 645 at (1660.4231021319474, 66.0, -722.6069580938871)
-[01:57:51] [Server thread/INFO]: dmins joined the game
-[01:57:51] [Server thread/INFO]: Async chunk loading for player dmins completed
-[01:57:52] [Server thread/INFO]: [voicechat] Received secret request of dmins (18)
-[01:57:52] [Server thread/INFO]: [voicechat] Sent secret to dmins
-[01:57:52] [Server thread/INFO]: Player dmins joined with a matching carpet client
-[01:57:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
-[01:57:53] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to mobcaps.]
-[01:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
-[01:57:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
-[02:07:38] [Server thread/INFO]: Villager class_1646['Weaponsmith'/104, l='ServerLevel[blitz]', x=1685.57, y=65.00, z=-754.56] died, message: 'Weaponsmith burned to death'
-[02:12:02] [Server thread/INFO]: Villager class_1646['Fletcher'/13, l='ServerLevel[blitz]', x=1661.42, y=64.94, z=-726.57] died, message: 'Fletcher burned to death'
-[02:12:57] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[02:13:05] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[02:13:09] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[02:13:34] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[02:14:48] [Server thread/INFO]: Alegria11293 has made the advancement [Enchanter]
-[02:23:19] [Server thread/INFO]: [Not Secure] <dmins> 7
+[16:18:14] [main/INFO]: Loaded 1898 recipes
+[16:18:14] [main/ERROR]: Parsing error loading custom advancement sozoka:root: No key id in MapLike[{"item":"minecraft:player_head","nbt":"{SkullOwner:SozoKa}"}]
+[16:18:14] [main/ERROR]: Parsing error loading custom advancement sitanywhere:dpsystem/icon: No key id in MapLike[{"item":"minecraft:mangrove_stairs"}]
+[16:18:14] [main/INFO]: Loaded 1933 advancements
+[16:18:14] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
+[16:18:15] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.400 ms
+[16:18:15] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:18:15] [Server thread/INFO]: Loading properties
+[16:18:15] [Server thread/INFO]: Default game type: SURVIVAL
+[16:18:15] [Server thread/INFO]: Generating keypair
+[16:18:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:18:15] [Server thread/INFO]: Using epoll channel type
+[16:18:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:18:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:18:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:18:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:18:15] [Server thread/INFO]: Preparing level "world"
+[16:18:15] [Server thread/INFO]: [CM] Loaded 7 settings from carpet.conf
+[16:18:15] [Server thread/INFO]: Enforcing safe world random access
+[16:18:15] [Server thread/INFO]: Changing watch distance to 10
+[16:18:18] [Server thread/INFO]: Changing watch distance to 10
+[16:18:18] [Server thread/INFO]: Changing watch distance to 10
+[16:18:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:18:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:18:18] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[16:18:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[16:18:19] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[16:18:19] [Server thread/INFO]: Time elapsed: 1837 ms
+[16:18:19] [Server thread/INFO]: Done (4.443s)! For help, type "help"
+[16:18:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[16:18:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[16:18:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[16:18:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[16:18:20] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[16:18:20] [Server thread/INFO]: Added 0 persistent groups
+[16:18:20] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'their-estimates.gl.at.ply.gg:1586'
+[16:18:20] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 42069
+[16:18:41] [Server thread/INFO]: Alegria11293[/127.71.54.31:45129] logged in with entity id 7 at (1664.252193495641, 64.0, -735.9813399825737)
+[16:18:41] [Server thread/INFO]: Alegria11293 joined the game
+[16:18:42] [Server thread/INFO]: Async chunk loading for player Alegria11293 completed
+[16:18:42] [Server thread/INFO]: [voicechat] Received secret request of Alegria11293 (18)
+[16:18:42] [Server thread/INFO]: [voicechat] Sent secret to Alegria11293
+[16:18:50] [Server thread/INFO]: Player Alegria11293 joined with a matching carpet client
+[16:18:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06afecaa-34b2-3f4f-8781-666370e8082f
+[16:18:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06afecaa-34b2-3f4f-8781-666370e8082f
+[16:18:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Alegria11293 (06afecaa-34b2-3f4f-8781-666370e8082f) successfully connected to voice chat
+[16:18:58] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to tps.]
+[16:19:01] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to mobcaps.]
+[16:19:39] [Server thread/INFO]: Made Alegria11293 a server operator
+[16:19:46] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
+[16:19:55] [Server thread/INFO]: [Alegria11293: Summoned new Unemployed]
+[16:19:56] [Server thread/INFO]: [Alegria11293: Summoned new Unemployed]
+[16:19:57] [Server thread/INFO]: [Alegria11293: Summoned new Unemployed]
+[16:19:57] [Server thread/INFO]: [Alegria11293: Summoned new Unemployed]
+[16:19:58] [Server thread/INFO]: [Alegria11293: Summoned new Unemployed]
+[16:21:20] [Server thread/INFO]: Villager class_1646['Unemployed'/16, l='ServerLevel[blitz]', x=1670.96, y=65.00, z=-723.51] died, message: 'Unemployed was slain by Zombie'
+[16:21:32] [Server thread/INFO]: Villager class_1646['Fletcher'/135, l='ServerLevel[blitz]', x=1660.50, y=66.33, z=-720.51] died, message: 'Fletcher was slain by Zombie'
+[16:21:39] [Server thread/INFO]: Villager class_1646['Fletcher'/133, l='ServerLevel[blitz]', x=1659.50, y=66.33, z=-720.51] died, message: 'Fletcher was slain by Zombie'
+[16:22:13] [Server thread/INFO]: Villager class_1646['Unemployed'/143, l='ServerLevel[blitz]', x=1658.50, y=68.28, z=-720.51] died, message: 'Unemployed was slain by Alegria11293'
+[16:22:37] [Server thread/INFO]: [Alegria11293: Applied enchantment Protection IV to Alegria11293's item]
+[16:22:44] [Server thread/INFO]: [Alegria11293: Applied enchantment Blast Protection IV to Alegria11293's item]
+[16:22:52] [Server thread/INFO]: [Alegria11293: Applied enchantment Projectile Protection IV to Alegria11293's item]
+[16:23:03] [Server thread/INFO]: [Alegria11293: Applied enchantment Fire Protection IV to Alegria11293's item]
+[16:23:11] [Server thread/INFO]: [Alegria11293: Applied enchantment Unbreaking III to Alegria11293's item]
+[16:23:18] [Server thread/INFO]: [Alegria11293: Applied enchantment Respiration III to Alegria11293's item]
+[16:23:23] [Server thread/INFO]: [Alegria11293: Applied enchantment Aqua Affinity to Alegria11293's item]
+[16:23:41] [Server thread/INFO]: [Alegria11293: Applied enchantment Protection IV to Alegria11293's item]
+[16:23:47] [Server thread/INFO]: [Alegria11293: Applied enchantment Blast Protection IV to Alegria11293's item]
+[16:23:52] [Server thread/INFO]: [Alegria11293: Applied enchantment Fire Protection IV to Alegria11293's item]
+[16:24:05] [Server thread/INFO]: [Alegria11293: Applied enchantment Projectile Protection IV to Alegria11293's item]
+[16:24:11] [Server thread/INFO]: [Alegria11293: Applied enchantment Unbreaking III to Alegria11293's item]
+[16:24:15] [Server thread/INFO]: [Alegria11293: Applied enchantment Thorns III to Alegria11293's item]
+[16:24:23] [Server thread/INFO]: [Alegria11293: Applied enchantment Thorns III to Alegria11293's item]
+[16:24:49] [Server thread/INFO]: [Alegria11293: Applied enchantment Protection IV to Alegria11293's item]
+[16:24:56] [Server thread/INFO]: [Alegria11293: Applied enchantment Blast Protection IV to Alegria11293's item]
+[16:25:02] [Server thread/INFO]: [Alegria11293: Applied enchantment Fire Protection IV to Alegria11293's item]
+[16:25:10] [Server thread/INFO]: [Alegria11293: Applied enchantment Projectile Protection IV to Alegria11293's item]
+[16:25:14] [Server thread/INFO]: [Alegria11293: Applied enchantment Unbreaking III to Alegria11293's item]
+[16:25:32] [Server thread/INFO]: [Alegria11293: Applied enchantment Protection IV to Alegria11293's item]
+[16:25:37] [Server thread/INFO]: [Alegria11293: Applied enchantment Fire Protection IV to Alegria11293's item]
+[16:25:42] [Server thread/INFO]: [Alegria11293: Applied enchantment Projectile Protection IV to Alegria11293's item]
+[16:25:54] [Server thread/INFO]: [Alegria11293: Applied enchantment Blast Protection IV to Alegria11293's item]
+[16:25:59] [Server thread/INFO]: [Alegria11293: Applied enchantment Unbreaking III to Alegria11293's item]
+[16:26:07] [Server thread/INFO]: [Alegria11293: Applied enchantment Thorns III to Alegria11293's item]
+[16:26:17] [Server thread/INFO]: [Alegria11293: Applied enchantment Protection IV to Alegria11293's item]
+[16:26:24] [Server thread/INFO]: [Alegria11293: Applied enchantment Projectile Protection IV to Alegria11293's item]
+[16:26:30] [Server thread/INFO]: [Alegria11293: Applied enchantment Blast Protection IV to Alegria11293's item]
+[16:26:34] [Server thread/INFO]: [Alegria11293: Applied enchantment Fire Protection IV to Alegria11293's item]
+[16:26:42] [Server thread/INFO]: [Alegria11293: Applied enchantment Soul Speed III to Alegria11293's item]
+[16:26:48] [Server thread/INFO]: [Alegria11293: Applied enchantment Depth Strider III to Alegria11293's item]
+[16:27:07] [Server thread/INFO]: [Alegria11293: Applied enchantment Feather Falling IV to Alegria11293's item]
+[16:27:14] [Server thread/INFO]: [Alegria11293: Applied enchantment Unbreaking III to Alegria11293's item]
+[16:27:25] [Server thread/INFO]: [Alegria11293: Applied enchantment Thorns III to Alegria11293's item]
+[16:27:53] [Server thread/INFO]: [Alegria11293: Applied enchantment Sharpness V to Alegria11293's item]
+[16:27:57] [Server thread/INFO]: [Alegria11293: Applied enchantment Looting III to Alegria11293's item]
