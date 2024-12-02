@@ -43,11 +43,20 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2024-12-02 18:28:43 +0000",
       "minecraft:flower_forest": "2024-12-02 18:13:09 +0000",
+      "minecraft:beach": "2024-12-02 18:25:29 +0000",
       "minecraft:forest": "2024-12-02 18:21:05 +0000",
       "minecraft:river": "2024-11-30 01:37:16 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-02 18:25:32 +0000",
+      "minecraft:stony_shore": "2024-12-02 18:27:54 +0000",
+      "minecraft:desert": "2024-12-02 18:28:20 +0000",
+      "minecraft:jungle": "2024-12-02 18:24:29 +0000",
       "minecraft:meadow": "2024-12-02 18:20:16 +0000",
-      "minecraft:plains": "2024-11-30 01:33:02 +0000"
+      "minecraft:wooded_badlands": "2024-12-02 18:28:44 +0000",
+      "minecraft:plains": "2024-11-30 01:33:02 +0000",
+      "minecraft:warm_ocean": "2024-12-02 18:26:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-02 18:26:24 +0000"
     },
     "done": false
   },
@@ -1236,12 +1245,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_horse_armor": "2024-12-02 18:14:51 +0000"
-    },
-    "done": true
-  },
   "mini_blocks:recipes/decorations/white_wool": {
     "criteria": {
       "has_block": "2024-12-02 18:03:58 +0000"
@@ -1254,9 +1257,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+  "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
-      "has_golden_horse_armor": "2024-12-02 18:14:51 +0000"
+      "has_white_wool": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-02 18:03:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-02 18:03:58 +0000"
     },
     "done": true
   },
@@ -1281,12 +1296,6 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-02 18:10:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_carpet": {
-    "criteria": {
-      "has_white_wool": "2024-12-02 18:03:58 +0000"
     },
     "done": true
   },
@@ -1320,12 +1329,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2024-12-02 18:03:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-02 18:10:34 +0000"
@@ -1338,9 +1341,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
-      "has_white_wool": "2024-12-02 18:03:58 +0000"
+      "has_granite": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/granite": {
+    "criteria": {
+      "has_stairs": "2024-12-02 18:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-02 18:14:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2024-12-02 18:14:51 +0000"
     },
     "done": true
   },
@@ -1356,15 +1377,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "has_granite": "2024-12-02 18:10:34 +0000"
+      "has_boat": "2024-12-02 18:25:17 +0000"
     },
     "done": true
   },
-  "slabs_stairs_to_block:recipes/building_blocks/stairs/granite": {
+  "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
-      "has_stairs": "2024-12-02 18:10:34 +0000"
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-02 18:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-02 18:30:16 +0000"
     },
     "done": true
   },
