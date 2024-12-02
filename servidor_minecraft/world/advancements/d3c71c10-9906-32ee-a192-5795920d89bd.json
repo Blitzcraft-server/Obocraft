@@ -1544,6 +1544,12 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/grindstone_wall": {
+    "criteria": {
+      "has_block": "2024-12-02 20:45:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-02 20:05:04 +0000"
@@ -1682,6 +1688,12 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_block": "2024-12-02 20:45:42 +0000"
+    },
+    "done": true
+  },
   "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_blackstone_bricks": {
     "criteria": {
       "has_stairs": "2024-12-02 20:09:05 +0000"
@@ -1727,6 +1739,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-02 20:07:14 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_block": "2024-12-02 20:48:55 +0000"
     },
     "done": true
   },
