@@ -2796,6 +2796,12 @@
     },
     "done": true
   },
+  "mini_blocks:recipes/decorations/oak_planks_from_stairs": {
+    "criteria": {
+      "has_block": "2024-12-02 21:25:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-02 20:11:02 +0000"
