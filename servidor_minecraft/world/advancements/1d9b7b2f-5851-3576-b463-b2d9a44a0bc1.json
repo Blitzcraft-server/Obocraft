@@ -411,6 +411,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "mutton": "2024-11-30 01:39:30 +0000",
+      "bread": "2024-12-02 18:35:53 +0000",
       "rotten_flesh": "2024-11-30 02:21:33 +0000",
       "cooked_mutton": "2024-12-02 18:15:33 +0000",
       "cooked_beef": "2024-12-02 18:06:10 +0000",
@@ -1434,6 +1435,96 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-02 18:30:16 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/grindstone_wall": {
+    "criteria": {
+      "has_block": "2024-12-02 18:37:16 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_block": "2024-12-02 18:37:16 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/andesite": {
+    "criteria": {
+      "has_block": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/andesite": {
+    "criteria": {
+      "has_slab": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/andesite": {
+    "criteria": {
+      "has_stairs": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-02 18:42:17 +0000"
     },
     "done": true
   },
