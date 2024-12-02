@@ -2137,9 +2137,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_emerald_block": "2024-12-02 21:17:45 +0000"
+      "has_log": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dark_oak_log_rotated": {
+    "criteria": {
+      "has_block": "2024-12-02 21:05:45 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/dark_oak_log_horizontal": {
+    "criteria": {
+      "has_block": "2024-12-02 21:05:45 +0000"
     },
     "done": true
   },
@@ -2149,33 +2167,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-02 21:18:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-02 21:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-02 21:18:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2024-12-02 21:29:58 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/spruce_log_horizontal": {
-    "criteria": {
-      "has_block": "2024-12-02 21:26:00 +0000"
     },
     "done": true
   },
@@ -2191,51 +2185,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2024-12-02 21:17:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-02 21:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-02 21:18:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-02 21:26:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-02 21:18:22 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/netherrack": {
-    "criteria": {
-      "has_block": "2024-12-02 21:30:08 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-02 21:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-02 21:19:07 +0000"
     },
     "done": true
   },
@@ -2257,21 +2209,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2024-12-02 21:05:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2024-12-02 21:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-02 21:26:00 +0000"
     },
     "done": true
   },
@@ -2281,45 +2221,9 @@
     },
     "done": true
   },
-  "mini_blocks:recipes/decorations/emerald_block": {
-    "criteria": {
-      "has_block": "2024-12-02 21:17:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2024-12-02 21:05:45 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/spruce_log_rotated": {
-    "criteria": {
-      "has_block": "2024-12-02 21:26:00 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/dark_oak_log_rotated": {
-    "criteria": {
-      "has_block": "2024-12-02 21:05:45 +0000"
-    },
-    "done": true
-  },
   "mini_blocks:recipes/decorations/dark_oak_planks": {
     "criteria": {
       "has_block": "2024-12-02 21:09:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-02 21:18:00 +0000"
-    },
-    "done": true
-  },
-  "mini_blocks:recipes/decorations/dark_oak_log_horizontal": {
-    "criteria": {
-      "has_block": "2024-12-02 21:05:45 +0000"
     },
     "done": true
   },
@@ -2329,15 +2233,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "has_netherrack": "2024-12-02 21:30:08 +0000"
+      "has_emerald_block": "2024-12-02 21:17:45 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/emerald_block": {
+    "criteria": {
+      "has_block": "2024-12-02 21:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-02 21:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-02 21:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-02 21:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-02 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-02 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-02 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-02 21:18:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-02 21:19:07 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/spruce_log_horizontal": {
+    "criteria": {
+      "has_block": "2024-12-02 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-02 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-02 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/spruce_log_rotated": {
+    "criteria": {
+      "has_block": "2024-12-02 21:26:00 +0000"
     },
     "done": true
   },
   "mini_blocks:recipes/decorations/spruce_log": {
     "criteria": {
       "has_block": "2024-12-02 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2024-12-02 21:29:58 +0000"
+    },
+    "done": true
+  },
+  "mini_blocks:recipes/decorations/netherrack": {
+    "criteria": {
+      "has_block": "2024-12-02 21:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-02 21:30:08 +0000"
     },
     "done": true
   },

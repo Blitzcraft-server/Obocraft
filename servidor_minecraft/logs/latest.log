@@ -1,5 +1,5 @@
-[17:55:12] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.16.9
-[17:55:12] [main/INFO]: Loading 81 mods:
+[21:44:26] [main/INFO]: Loading Minecraft 1.20.6 with Fabric Loader 0.16.9
+[21:44:26] [main/INFO]: Loading 81 mods:
 	- appleskin 3.0.5+mc1.20.5
 	   \-- cloth-config 14.0.126
 	        \-- cloth-basic-math 0.6.1
@@ -99,47 +99,47 @@
 	   |-- fabric-api-base 0.4.40+80f8cf51ff
 	   |-- fabric-command-api-v2 2.2.24+80f8cf51ff
 	   \-- fabric-key-binding-api-v1 1.0.45+80f8cf51ff
-[17:55:12] [main/WARN]: Found 1 non-fabric mod:
+[21:44:26] [main/WARN]: Found 1 non-fabric mod:
 	- MinecraftOfflineOnlineConverter_3-BETA_1.jar
-[17:55:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Obocraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[17:55:13] [main/INFO]: Compatibility level set to JAVA_21
-[17:55:13] [main/INFO]: Initializing com.ishland.c2me.base.mixin
-[17:55:14] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[17:55:14] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[17:55:14] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
-[17:55:14] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[17:55:14] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
-[17:55:14] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
-[17:55:14] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 1 override(s) found
-[17:55:14] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
-[17:55:15] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
-[17:55:15] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[17:55:16] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[17:55:25] [main/INFO]: [voicechat] Compatibility version 18
-[17:55:25] [main/INFO]: [voicechat] Loading plugins
-[17:55:25] [main/INFO]: [voicechat] Loaded 1 plugin(s)
-[17:55:25] [main/INFO]: [voicechat] Initializing plugins
-[17:55:25] [main/INFO]: [voicechat] Initialized 1 plugin(s)
-[17:55:25] [main/INFO]: [voicechat] Registering events for 'enhancedgroups'
-[17:55:25] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:55:26] [main/ERROR]: Couldn't load overlays metadata
+[21:44:27] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Obocraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:44:27] [main/INFO]: Compatibility level set to JAVA_21
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.base.mixin
+[21:44:27] [main/INFO]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.notickvd.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.allocs.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.math.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:44:27] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[21:44:27] [main/INFO]: Disabling com.ishland.c2me.rewrites.chunkio.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.server.utils.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.threading.lighting.mixin
+[21:44:27] [main/INFO]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[21:44:27] [main/INFO]: Disabling com.ishland.c2me.threading.worldgen.mixin
+[21:44:27] [main/WARN]: Mod 'c2me' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[21:44:27] [main/INFO]: Loaded configuration file for Lithium: 124 options available, 1 override(s) found
+[21:44:27] [main/INFO]: Successfully started async appender with [ServerGuiConsole, SysOut, File]
+[21:44:28] [main/WARN]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca/spottedleaf/starlight/common/thread/SchedulingUtil)
+[21:44:28] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[21:44:29] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:44:38] [main/INFO]: [voicechat] Compatibility version 18
+[21:44:38] [main/INFO]: [voicechat] Loading plugins
+[21:44:38] [main/INFO]: [voicechat] Loaded 1 plugin(s)
+[21:44:38] [main/INFO]: [voicechat] Initializing plugins
+[21:44:38] [main/INFO]: [voicechat] Initialized 1 plugin(s)
+[21:44:38] [main/INFO]: [voicechat] Registering events for 'enhancedgroups'
+[21:44:39] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:44:39] [main/ERROR]: Couldn't load overlays metadata
 com.google.gson.JsonParseException: minecraft/tags/function is not accepted directory name; minecraft/tags/functions is not accepted directory name; sozoka/advancement is not accepted directory name; sozoka/advancements is not accepted directory name
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
 	at knot/net.minecraft.class_7677$1.method_14421(class_7677.java:20) ~[server-intermediary.jar:?]
@@ -164,17 +164,17 @@ com.google.gson.JsonParseException: minecraft/tags/function is not accepted dire
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:55:26] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
-[17:55:26] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
-[17:55:27] [Worker-Main-3/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
-[17:55:27] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:tags/items/.DS_Store, ignoring
-[17:55:27] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:recipes/.DS_Store, ignoring
-[17:55:27] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:recipes/stripped_dark_oak_wood .json, ignoring
-[17:55:27] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:recipes/oneycomb Block.json, ignoring
-[17:55:28] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/.DS_Store, ignoring
-[17:55:28] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/.DS_Store, ignoring
-[17:55:28] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/decorations/.DS_Store, ignoring
-[17:55:28] [main/ERROR]: Parsing error loading recipe mini_blocks:ozidized_cut_copper
+[21:44:39] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
+[21:44:39] [main/WARN]: Non [a-z0-9_.-] character in namespace .DS_Store in pack ./world/datapacks/mini-blocks-v1-0-0-mc-1-20-5.zip, ignoring
+[21:44:40] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:entities/player}.pools[1].entries[0]: Unknown loot table called graves:entities/player
+[21:44:41] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:tags/items/.DS_Store, ignoring
+[21:44:41] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:recipes/.DS_Store, ignoring
+[21:44:41] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:recipes/stripped_dark_oak_wood .json, ignoring
+[21:44:41] [Worker-Main-2/WARN]: Invalid path in datapack: mini_blocks:recipes/oneycomb Block.json, ignoring
+[21:44:41] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/.DS_Store, ignoring
+[21:44:41] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/.DS_Store, ignoring
+[21:44:41] [Worker-Main-3/WARN]: Invalid path in datapack: mini_blocks:advancements/recipes/decorations/.DS_Store, ignoring
+[21:44:42] [main/ERROR]: Parsing error loading recipe mini_blocks:ozidized_cut_copper
 com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozidized_cut_copper"}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:ozidized_cut_copper; Not a json array: {"item":"minecraft:ozidized_cut_copper"}; Input does not contain a key [fabric:type]: MapLike[{"item":"minecraft:ozidized_cut_copper"}]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:275) ~[datafixerupper-7.0.14.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
@@ -191,374 +191,59 @@ com.google.gson.JsonParseException: No key tag in MapLike[{"item":"minecraft:ozi
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.9.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[17:55:28] [main/INFO]: Loaded 1898 recipes
-[17:55:28] [main/ERROR]: Parsing error loading custom advancement sozoka:root: No key id in MapLike[{"item":"minecraft:player_head","nbt":"{SkullOwner:SozoKa}"}]
-[17:55:28] [main/ERROR]: Parsing error loading custom advancement sitanywhere:dpsystem/icon: No key id in MapLike[{"item":"minecraft:mangrove_stairs"}]
-[17:55:28] [main/INFO]: Loaded 1933 advancements
-[17:55:28] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
-[17:55:29] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.623 ms
-[17:55:29] [Server thread/INFO]: Starting minecraft server version 1.20.6
-[17:55:29] [Server thread/INFO]: Loading properties
-[17:55:29] [Server thread/INFO]: Default game type: SURVIVAL
-[17:55:29] [Server thread/INFO]: Generating keypair
-[17:55:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:55:29] [Server thread/INFO]: Using epoll channel type
-[17:55:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:55:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:55:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:55:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:55:29] [Server thread/INFO]: Preparing level "world"
-[17:55:29] [Server thread/INFO]: [CM] Loaded 7 settings from carpet.conf
-[17:55:29] [Server thread/INFO]: Enforcing safe world random access
-[17:55:30] [Server thread/INFO]: Changing watch distance to 10
-[17:55:32] [Server thread/INFO]: Changing watch distance to 10
-[17:55:32] [Server thread/INFO]: Changing watch distance to 10
-[17:55:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:55:32] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:55:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:55:34] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:55:35] [Worker-Main-3/INFO]: Preparing spawn area: 44%
-[17:55:35] [Server thread/INFO]: Time elapsed: 2727 ms
-[17:55:35] [Server thread/INFO]: Done (5.844s)! For help, type "help"
-[17:55:35] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[17:55:35] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[17:55:35] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[17:55:35] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[17:55:35] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:55:35] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'their-estimates.gl.at.ply.gg:1586'
-[17:55:35] [Server thread/INFO]: Added 0 persistent groups
-[17:55:35] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 42069
-[17:55:48] [Server thread/INFO]: Alegria11293[/127.71.54.31:43995] logged in with entity id 7 at (1673.7260281084984, 63.0, -746.6008559096956)
-[17:55:48] [Server thread/INFO]: Alegria11293 joined the game
-[17:55:49] [Server thread/INFO]: [voicechat] Received secret request of Alegria11293 (18)
-[17:55:49] [Server thread/INFO]: [voicechat] Sent secret to Alegria11293
-[17:55:49] [Server thread/INFO]: Async chunk loading for player Alegria11293 completed
-[17:55:52] [Server thread/INFO]: Player Alegria11293 joined with a matching carpet client
-[17:55:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06afecaa-34b2-3f4f-8781-666370e8082f
-[17:55:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06afecaa-34b2-3f4f-8781-666370e8082f
-[17:55:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Alegria11293 (06afecaa-34b2-3f4f-8781-666370e8082f) successfully connected to voice chat
-[17:56:01] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to tps.]
-[17:56:05] [Server thread/INFO]: [Alegria11293: Alegria11293 subscribed to mobcaps.]
-[18:00:18] [Server thread/INFO]: davidVengadrof[/127.197.155.166:39691] logged in with entity id 2690 at (-242.78186355844687, 71.0, -268.3225171127275)
-[18:00:18] [Server thread/INFO]: davidVengadrof joined the game
-[18:00:19] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[18:00:22] [Server thread/INFO]: [Not Secure] <Alegria11293> wenasssss
-[18:00:25] [Server thread/INFO]: [Not Secure] <Alegria11293> discord
-[18:06:38] [Server thread/INFO]: [Not Secure] <Alegria11293> discoooooordddd
-[18:06:43] [Server thread/INFO]: dmins[/127.122.212.189:50391] logged in with entity id 6664 at (1680.0012605868708, 64.0, -748.5806045593372)
-[18:06:43] [Server thread/INFO]: dmins joined the game
-[18:06:44] [Server thread/INFO]: Async chunk loading for player dmins completed
-[18:06:44] [Server thread/INFO]: [voicechat] Received secret request of dmins (18)
-[18:06:44] [Server thread/INFO]: [voicechat] Sent secret to dmins
-[18:06:44] [Server thread/INFO]: Player dmins joined with a matching carpet client
-[18:06:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
-[18:06:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
-[18:06:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
-[18:06:50] [Server thread/INFO]: [Not Secure] <Alegria11293> wwenas
-[18:06:54] [Server thread/INFO]: [Not Secure] <Alegria11293> discord
-[18:07:22] [Server thread/INFO]: [Not Secure] <davidVengadrof> voy
-[18:07:23] [Server thread/INFO]: [Not Secure] <Alegria11293> entro un zombi xd
-[18:07:24] [Server thread/INFO]: [Not Secure] <dmins> 𝗵𝗮𝘆 𝗺𝗲𝗻𝗼𝘀 𝗮𝗹𝗱𝗲𝗮𝗻𝗼𝘀 𝗾 𝗮𝗻𝘁𝗲𝘀
-[18:08:23] [Server thread/INFO]: [Not Secure] <Alegria11293> paz
-[18:08:33] [Server thread/INFO]: [Not Secure] <dmins> ya
-[18:08:39] [Server thread/INFO]: [Not Secure] <Alegria11293> bien
-[18:11:13] [Server thread/INFO]: [Not Secure] <dmins> para
-[18:11:14] [Server thread/INFO]: [Not Secure] <Alegria11293> sahr discord
-[18:11:17] [Server thread/INFO]: [Not Secure] <Alegria11293> ok
-[18:11:24] [Server thread/INFO]: [Not Secure] <dmins> es mas facil ciclearlos afuera
-[18:13:01] [Server thread/INFO]: [Not Secure] <dmins> el aldeano q pusiste no le pusiste gate
-[18:13:09] [Server thread/INFO]: [Not Secure] <Alegria11293> a cual
-[18:14:18] [Server thread/INFO]: Villager class_1646['Unemployed'/3266, l='ServerLevel[blitz]', x=1658.07, y=64.38, z=-720.30] died, message: 'Unemployed went up in flames'
-[18:14:21] [Server thread/INFO]: Villager class_1646['Unemployed'/3269, l='ServerLevel[blitz]', x=1656.50, y=64.38, z=-720.70] died, message: 'Unemployed burned to death'
-[18:14:23] [Server thread/INFO]: [Not Secure] <Alegria11293> seva a quemar lw xd
-[18:16:15] [Server thread/INFO]: [Not Secure] <Alegria11293> mato al zombi aldeano?
-[18:17:08] [Server thread/INFO]: [Not Secure] <Alegria11293> 1600 -700
-[18:19:31] [Server thread/INFO]: [dmins: dmins subscribed to tps.]
-[18:20:11] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[18:20:14] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[18:20:19] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[18:20:31] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[18:21:52] [Server thread/INFO]: davidVengadrof lost connection: Disconnected
-[18:21:52] [Server thread/INFO]: davidVengadrof left the game
-[18:21:52] [Server thread/INFO]: [voicechat] Disconnecting client davidVengadrof
-[18:22:32] [Server thread/INFO]: Alegria11293 has made the advancement [Ice Bucket Challenge]
-[18:24:08] [Server thread/INFO]: davidVengadrof[/127.197.155.166:40561] logged in with entity id 14427 at (632.1599381225147, 84.0, -403.3865514066782)
-[18:24:08] [Server thread/INFO]: davidVengadrof joined the game
-[18:24:09] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[18:30:02] [Server thread/INFO]: davidVengadrof was slain by Alegria11293
-[18:30:04] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[18:30:18] [Server thread/INFO]: davidVengadrof was shot by dmins using [𝗙❨𝘅❩=∫ₐᵇ𝗳❨𝘁❩𝗱𝘁 𝗙'❨𝘅❩=𝗳❨𝘅❩]
-[18:30:20] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[18:30:23] [Server thread/INFO]: [Not Secure] <dmins> jsjsjs
-[18:30:26] [Server thread/INFO]: [Not Secure] <Alegria11293> jsjsjs
-[18:30:31] [Server thread/INFO]: [Not Secure] <Alegria11293> ta pro el nombre
-[18:30:54] [Server thread/INFO]: [Not Secure] <Alegria11293> mendinnnngggg
-[18:33:48] [Server thread/INFO]: [Not Secure] <Alegria11293> sahr tienes perlas y blaze?
-[18:33:53] [Server thread/INFO]: [Not Secure] <dmins> no
-[18:33:55] [Server thread/INFO]: [Not Secure] <Alegria11293> a
-[18:39:13] [Server thread/INFO]: Villager class_1646['Fletcher'/3251, l='ServerLevel[blitz]', x=1658.52, y=64.38, z=-720.57] died, message: 'Fletcher was blown up by Creeper'
-[18:39:22] [Server thread/INFO]: Villager class_1646['Fletcher'/3253, l='ServerLevel[blitz]', x=1658.52, y=65.07, z=-719.89] died, message: 'Fletcher suffocated in a wall'
-[18:39:27] [Server thread/INFO]: [Not Secure] <dmins> fuck
-[18:39:30] [Server thread/INFO]: [Not Secure] <Alegria11293> fuck
-[18:42:33] [Server thread/INFO]: Gave 1 [Ender Chest] to Alegria11293
-[18:43:18] [Server thread/INFO]: davidVengadrof lost connection: Disconnected
-[18:43:18] [Server thread/INFO]: davidVengadrof left the game
-[18:43:18] [Server thread/INFO]: [voicechat] Disconnecting client davidVengadrof
-[18:43:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:43:46] [Server thread/INFO]: /give alegria11293 torch 128<--[HERE]
-[18:44:07] [Server thread/INFO]: Gave 128 [Torch] to Alegria11293
-[18:44:18] [Server thread/INFO]: [Not Secure] <Alegria11293> aaaa
-[18:44:20] [Server thread/INFO]: [Not Secure] <Alegria11293> plw
-[18:44:25] [Server thread/INFO]: [Not Secure] <Alegria11293> tienes cuarzo
-[18:44:28] [Server thread/INFO]: [Not Secure] <Alegria11293> ?
-[18:44:55] [Server thread/INFO]: [Not Secure] <Alegria11293> gracias
-[18:45:33] [Server thread/INFO]: davidVengadrof[/127.197.155.166:54013] logged in with entity id 21807 at (1667.02834077313, -6.0, -741.647898563872)
-[18:45:33] [Server thread/INFO]: davidVengadrof joined the game
-[18:45:33] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[18:49:47] [Server thread/INFO]: [Not Secure] <Alegria11293> ya
-[18:49:54] [Server thread/INFO]: [Not Secure] <Alegria11293> ilumine todo el lugar
-[18:49:59] [Server thread/INFO]: [Not Secure] <Alegria11293> pa que no pase mas
-[18:50:12] [Server thread/INFO]: dmins has made the advancement [The Parrots and the Bats]
-[18:50:27] [Server thread/INFO]: Villager class_1646['Unemployed'/3183, l='ServerLevel[blitz]', x=1617.40, y=61.00, z=-740.24] died, message: 'Unemployed went up in flames'
-[18:50:30] [Server thread/INFO]: Villager class_1646['Unemployed'/3270, l='ServerLevel[blitz]', x=1657.24, y=64.95, z=-720.90] died, message: 'Unemployed was slain by Alegria11293'
-[18:51:18] [Server thread/INFO]: Gave 2 [Daylight Detector] to Alegria11293
-[18:51:29] [Server thread/INFO]: Gave 2 [Piston] to Alegria11293
-[18:52:59] [Server thread/INFO]: Gave 32 [Rail] to Alegria11293
-[18:53:19] [Server thread/INFO]: Gave 10 [Powered Rail] to Alegria11293
-[18:54:54] [Server thread/INFO]: [Not Secure] <Alegria11293> devuelto el de mendig
-[18:55:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1654, y=61, z=-721} class_2338{x=1654, y=62, z=-721}
-[18:59:35] [Server thread/INFO]: [Not Secure] <dmins> el de mending no esta bien puesto
-[18:59:40] [Server thread/INFO]: [Not Secure] <Alegria11293> si se me movio
-[18:59:47] [Server thread/INFO]: [Not Secure] <Alegria11293> estoy en eso
-[19:01:38] [Server thread/INFO]: [Not Secure] <Alegria11293> ahi ta
-[19:05:28] [Server thread/INFO]: Portal not located for entity class_3222['Alegria11293'/7, l='ServerLevel[blitz]', x=1680.77, y=63.00, z=-739.13] at null
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=147, y=34, z=-112} class_2338{x=147, y=33, z=-112}
-[19:07:28] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[19:07:34] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[19:07:39] [Server thread/INFO]: [dmins: Triggered [find station of this villager]]
-[19:08:20] [Server thread/INFO]: Cchurrasco[/127.136.180.58:55877] logged in with entity id 30644 at (672.1503970694579, 62.11076431274414, -469.01029717875736)
-[19:08:20] [Server thread/INFO]: Cchurrasco joined the game
-[19:08:20] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[19:08:22] [Server thread/INFO]: [voicechat] Received secret request of Cchurrasco (18)
-[19:08:22] [Server thread/INFO]: [voicechat] Sent secret to Cchurrasco
-[19:08:30] [Server thread/INFO]: Player Cchurrasco joined with a matching carpet client
-[19:08:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d3c71c10-9906-32ee-a192-5795920d89bd
-[19:08:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d3c71c10-9906-32ee-a192-5795920d89bd
-[19:08:34] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cchurrasco (d3c71c10-9906-32ee-a192-5795920d89bd) successfully connected to voice chat
-[19:09:01] [Server thread/INFO]: Made Alegria11293 a server operator
-[19:09:39] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[19:09:59] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
-[19:09:59] [Server thread/INFO]: Cchurrasco left the game
-[19:09:59] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
-[19:10:03] [Server thread/INFO]: davidVengadrof lost connection: You logged in from another location
-[19:10:03] [Server thread/INFO]: davidVengadrof left the game
-[19:10:03] [Server thread/INFO]: [voicechat] Disconnecting client davidVengadrof
-[19:10:04] [Server thread/INFO]: davidVengadrof[/127.197.155.166:35721] logged in with entity id 32206 at (1651.1603628335004, 50.0, -742.5357287306595)
-[19:10:04] [Server thread/INFO]: davidVengadrof joined the game
-[19:10:04] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[19:10:18] [Server thread/INFO]: Cchurrasco[/127.136.180.58:60739] logged in with entity id 32350 at (666.884599804881, 62.11076431274414, -465.46541247220546)
-[19:10:18] [Server thread/INFO]: Cchurrasco joined the game
-[19:10:18] [Server thread/INFO]: [voicechat] Received secret request of Cchurrasco (18)
-[19:10:18] [Server thread/INFO]: [voicechat] Sent secret to Cchurrasco
-[19:10:18] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[19:10:20] [Server thread/INFO]: Player Cchurrasco joined with a matching carpet client
-[19:10:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d3c71c10-9906-32ee-a192-5795920d89bd
-[19:10:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d3c71c10-9906-32ee-a192-5795920d89bd
-[19:10:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cchurrasco (d3c71c10-9906-32ee-a192-5795920d89bd) successfully connected to voice chat
-[19:10:38] [Server thread/INFO]: [Not Secure] <Cchurrasco> 300 -1000
-[19:11:11] [Server thread/INFO]: [Alegria11293: Changed the block at 180, 127, -99]
-[19:11:30] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[19:11:33] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/7, l='ServerLevel[blitz]', x=201.96, y=60.00, z=-96.42] at TeleportTarget{pitch=42.449986, position=(1680.5, 63.0, -738.4186031763513), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-177.6026}
-[19:12:04] [Server thread/INFO]: [Not Secure] <Alegria11293> saaaahr
-[19:12:06] [Server thread/INFO]: [Not Secure] <Alegria11293> discord
-[19:12:12] [Server thread/INFO]: [Not Secure] <Alegria11293> estamos con daivd y christian
-[19:12:27] [Server thread/INFO]: Villager class_1646['Cleric'/10535, l='ServerLevel[blitz]', x=1680.53, y=64.00, z=-751.53] died, message: 'Cleric went up in flames'
-[19:15:17] [Server thread/INFO]: davidVengadrof has made the advancement [Ice Bucket Challenge]
-[19:17:39] [Server thread/INFO]: Villager class_1646['Fletcher'/18995, l='ServerLevel[blitz]', x=1658.21, y=65.07, z=-719.85] died, message: 'Fletcher suffocated in a wall'
-[19:17:45] [Server thread/INFO]: Villager class_1646['Unemployed'/3267, l='ServerLevel[blitz]', x=1658.93, y=64.38, z=-720.70] died, message: 'Unemployed was slain by Alegria11293'
-[19:18:38] [Server thread/INFO]: [Not Secure] <davidVengadrof> 1600 -700
-[19:23:25] [Server thread/INFO]: Alegria11293 has made the advancement [Not Today, Thank You]
-[19:24:58] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[19:25:07] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[19:25:43] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[19:26:07] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[19:26:48] [Server thread/INFO]: Cchurrasco has made the advancement [Cover Me with Diamonds]
-[19:26:50] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[19:27:02] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[19:28:17] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/32350, l='ServerLevel[blitz]', x=1680.46, y=63.00, z=-738.85] at TeleportTarget{pitch=27.149822, position=(202.5, 60.0, -96.84599800564752), velocity=(0.0, -0.0784000015258789, 0.0), yaw=102.50226}
-[19:28:18] [Server thread/INFO]: Cchurrasco has made the advancement [We Need to Go Deeper]
-[19:30:15] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/32350, l='ServerLevel[blitz]', x=202.70, y=60.00, z=-96.99] at TeleportTarget{pitch=21.74992, position=(1680.5, 63.0, -738.9920069675153), velocity=(0.0, -0.0784000015258789, 0.0), yaw=37.402466}
-[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
-[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
-[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
-[19:30:31] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1648, y=66, z=-735} class_2338{x=1646, y=64, z=-735}
-[19:30:37] [Server thread/INFO]: davidVengadrof has made the advancement [Cover Me with Diamonds]
-[19:33:20] [Server thread/INFO]: Cchurrasco has made the advancement [What a Deal!]
-[19:34:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1646, y=67, z=-714} class_2338{x=1648, y=68, z=-712}
-[19:34:03] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1646, y=67, z=-714} class_2338{x=1648, y=68, z=-716}
-[19:34:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=1646, y=68, z=-715} class_2338{x=1646, y=68, z=-714}
-[19:43:08] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/32350, l='ServerLevel[blitz]', x=1680.33, y=63.00, z=-739.60] at TeleportTarget{pitch=15.082814, position=(202.5, 60.0, -97.60436314584854), velocity=(0.0, -0.0784000015258789, 0.0), yaw=88.045166}
-[19:43:14] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/7, l='ServerLevel[blitz]', x=1680.68, y=63.00, z=-738.46] at TeleportTarget{pitch=22.94999, position=(202.5, 60.0, -96.46147544432813), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-52.65033}
-[19:43:31] [Server thread/INFO]: [Not Secure] <Alegria11293> 200 -100
-[19:44:46] [Server thread/INFO]: Villager class_1646['Fletcher'/16910, l='ServerLevel[blitz]', x=1657.50, y=70.23, z=-720.51] died, message: 'Fletcher was slain by dmins'
-[19:44:54] [Server thread/INFO]: [Not Secure] <Cchurrasco> 279 11
-[19:48:14] [Server thread/INFO]: Alegria11293 has made the advancement [Spooky Scary Skeleton]
-[19:48:26] [Server thread/INFO]: Cchurrasco has made the advancement [Take Aim]
-[19:48:29] [Server thread/INFO]: Alegria11293 has made the advancement [A Terrible Fortress]
-[19:48:35] [Server thread/INFO]: Alegria11293 has made the advancement [Into Fire]
-[19:48:49] [Server thread/INFO]: Cchurrasco has made the advancement [A Terrible Fortress]
-[19:49:07] [Server thread/INFO]: Portal located for entity class_3222['dmins'/6664, l='ServerLevel[blitz]', x=1680.08, y=63.00, z=-738.59] at TeleportTarget{pitch=13.799974, position=(202.5, 60.0, -96.58636886170802), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-61.049484}
-[19:49:29] [Server thread/INFO]: Cchurrasco has made the advancement [Into Fire]
-[19:50:32] [Server thread/INFO]: davidVengadrof fell from a high place
-[19:50:34] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[19:50:56] [Server thread/INFO]: Portal located for entity class_3222['dmins'/6664, l='ServerLevel[blitz]', x=202.40, y=60.00, z=-97.10] at TeleportTarget{pitch=58.19995, position=(1680.5, 63.0, -739.102715940563), velocity=(0.0, -0.0784000015258789, 0.0), yaw=26.101257}
-[19:57:51] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
-[19:57:51] [Server thread/INFO]: Cchurrasco left the game
-[19:57:51] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
-[19:58:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=324, y=51, z=91} class_2338{x=324, y=50, z=92}
-[19:58:59] [Server thread/INFO]: Cchurrasco[/127.136.180.58:57687] logged in with entity id 54788 at (280.38351229044304, 53.0, 68.30000001192093)
-[19:58:59] [Server thread/INFO]: Cchurrasco joined the game
-[19:58:59] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[19:59:00] [Server thread/INFO]: [voicechat] Received secret request of Cchurrasco (18)
-[19:59:00] [Server thread/INFO]: [voicechat] Sent secret to Cchurrasco
-[19:59:02] [Server thread/INFO]: Player Cchurrasco joined with a matching carpet client
-[19:59:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d3c71c10-9906-32ee-a192-5795920d89bd
-[19:59:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d3c71c10-9906-32ee-a192-5795920d89bd
-[19:59:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cchurrasco (d3c71c10-9906-32ee-a192-5795920d89bd) successfully connected to voice chat
-[19:59:18] [Server thread/INFO]: [Not Secure] <Alegria11293> 480 -1|76
-[19:59:22] [Server thread/INFO]: [Not Secure] <Alegria11293> 480 -176
-[19:59:28] [Server thread/INFO]: [Not Secure] <Alegria11293> 320 96
-[20:00:05] [Server thread/INFO]: Villager class_1646['Unemployed'/51548, l='ServerLevel[blitz]', x=1650.73, y=65.00, z=-714.67] died, message: 'Unemployed burned to death'
-[20:00:17] [Server thread/INFO]: Villager class_1646['Unemployed'/51547, l='ServerLevel[blitz]', x=1656.50, y=64.00, z=-720.76] died, message: 'Unemployed burned to death'
-[20:00:26] [Server thread/INFO]: davidVengadrof has made the advancement [A Seedy Place]
-[20:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=355, y=48, z=63} class_2338{x=356, y=48, z=63}
-[20:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=355, y=48, z=63} class_2338{x=356, y=48, z=63}
-[20:02:11] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=355, y=48, z=63} class_2338{x=356, y=48, z=63}
-[20:02:12] [Server thread/INFO]: davidVengadrof has made the advancement [The Parrots and the Bats]
-[20:07:02] [Server thread/INFO]: Alegria11293 has made the advancement [Those Were the Days]
-[20:07:14] [Server thread/INFO]: Cchurrasco has made the advancement [Those Were the Days]
-[20:08:01] [Server thread/INFO]: Alegria11293 has made the advancement [Hot Stuff]
-[20:08:40] [Server thread/INFO]: Alegria11293 has made the advancement [War Pigs]
-[20:08:45] [Server thread/INFO]: Alegria11293 has made the advancement [Who is Cutting Onions?]
-[20:09:38] [Server thread/INFO]: Cchurrasco burned to death
-[20:09:40] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[20:09:55] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/54788, l='ServerLevel[blitz]', x=1680.70, y=63.00, z=-738.43] at TeleportTarget{pitch=32.849987, position=(202.5, 60.0, -96.4302994697922), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-174.90001}
-[20:10:19] [Server thread/INFO]: Cchurrasco tried to swim in lava to escape Hoglin
-[20:10:20] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[20:10:33] [Server thread/INFO]: Portal located for entity class_3222['Cchurrasco'/54788, l='ServerLevel[blitz]', x=1680.68, y=63.00, z=-739.53] at TeleportTarget{pitch=66.299995, position=(202.5, 60.0, -97.52647107194628), velocity=(0.0, -0.0784000015258789, 0.0), yaw=136.49976}
-[20:12:09] [Server thread/INFO]: Cchurrasco fell from a high place
-[20:12:12] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[20:12:38] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:13:46] [Server thread/INFO]: [Alegria11293: Set own game mode to Spectator Mode]
-[20:13:56] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:16:39] [Server thread/INFO]: [Alegria11293: Teleported Alegria11293 to 200.500000, 64.254449, -99.500000]
-[20:16:46] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/7, l='ServerLevel[blitz]', x=201.76, y=60.00, z=-96.70] at TeleportTarget{pitch=37.949944, position=(1680.5, 63.0, -738.701219709446), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-97.80166}
-[20:16:52] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:18:04] [Server thread/INFO]: Villager class_1646['Unemployed'/58917, l='ServerLevel[blitz]', x=1657.50, y=70.23, z=-720.51] died, message: 'Unemployed was slain by Cchurrasco'
-[20:19:37] [Server thread/INFO]: Alegria11293 lost connection: Disconnected
-[20:19:37] [Server thread/INFO]: Alegria11293 left the game
-[20:19:37] [Server thread/INFO]: [voicechat] Disconnecting client Alegria11293
-[20:21:00] [Server thread/INFO]: Alegria11293[/127.71.54.31:34333] logged in with entity id 70395 at (1652.8292521621947, 64.875, -721.6999999880791)
-[20:21:00] [Server thread/INFO]: Alegria11293 joined the game
-[20:21:00] [Server thread/INFO]: Async chunk loading for player Alegria11293 completed
-[20:21:00] [Server thread/INFO]: [voicechat] Received secret request of Alegria11293 (18)
-[20:21:00] [Server thread/INFO]: [voicechat] Sent secret to Alegria11293
-[20:21:03] [Server thread/INFO]: Player Alegria11293 joined with a matching carpet client
-[20:21:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 06afecaa-34b2-3f4f-8781-666370e8082f
-[20:21:05] [Server thread/INFO]: davidVengadrof lost connection: Disconnected
-[20:21:05] [Server thread/INFO]: davidVengadrof left the game
-[20:21:05] [Server thread/INFO]: [voicechat] Disconnecting client davidVengadrof
-[20:21:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 06afecaa-34b2-3f4f-8781-666370e8082f
-[20:21:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Alegria11293 (06afecaa-34b2-3f4f-8781-666370e8082f) successfully connected to voice chat
-[20:24:42] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:25:05] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:25:10] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=1680.55, y=63.00, z=-738.57] at TeleportTarget{pitch=20.849981, position=(202.5, 60.0, -96.57297139151581), velocity=(0.0, -0.0784000015258789, 0.0), yaw=116.997314}
-[20:25:21] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:26:07] [Server thread/INFO]: [Not Secure] <Alegria11293> nigger
-[20:26:45] [Server thread/INFO]: [Alegria11293: Changed the block at 135, 15, -69]
-[20:26:47] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:26:50] [Server thread/INFO]: Alegria11293 has made the advancement [Hidden in the Depths]
-[20:26:59] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:27:54] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:28:24] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:28:29] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:34:20] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:35:11] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:35:35] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:35:44] [Server thread/INFO]: [Alegria11293: Summoned new Piglin]
-[20:35:48] [Server thread/INFO]: Alegria11293 has made the advancement [Oh Shiny]
-[20:36:31] [Server thread/INFO]: Portal not located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-100.07, y=57.00, z=-10.17] at null
-[20:37:18] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-807.34, y=63.00, z=-70.44] at TeleportTarget{pitch=30.29998, position=(-99.5, 57.0, -10.442003437189356), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-116.252525}
-[20:37:33] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-60.57, y=65.00, z=18.30] at TeleportTarget{pitch=20.399979, position=(-533.5, -54.0, 126.30000001192093), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-126.45267}
-[20:37:36] [Server thread/INFO]: Cchurrasco has made the advancement [Enchanter]
-[20:37:44] [Server thread/INFO]: [Alegria11293: Set own game mode to Adventure Mode]
-[20:37:57] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:37:58] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:38:05] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-533.13, y=-54.00, z=127.23] at TeleportTarget{pitch=36.75002, position=(-60.5, 65.0, 19.23077735593631), velocity=(0.0, -0.0784000015258789, 0.0), yaw=1.3474731}
-[20:38:20] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:38:21] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-60.29, y=65.00, z=19.50] at TeleportTarget{pitch=23.250015, position=(-533.5, -54.0, 127.5020646661389), velocity=(0.0, -0.0784000015258789, 0.0), yaw=11.997471}
-[20:39:19] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:39:21] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:39:46] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-533.50, y=-54.00, z=126.54] at TeleportTarget{pitch=17.550045, position=(-60.5, 65.0, 18.53513230800577), velocity=(0.0, -0.0784000015258789, 0.0), yaw=130.94708}
-[20:40:14] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:40:17] [Server thread/INFO]: Villager class_1646['Unemployed'/80086, l='ServerLevel[blitz]', x=-28.50, y=89.00, z=-25.21] died, message: 'Unemployed was slain by Alegria11293'
-[20:40:24] [Server thread/INFO]: Villager class_1646['Unemployed'/80096, l='ServerLevel[blitz]', x=-33.11, y=88.00, z=-29.82] died, message: 'Unemployed was slain by Alegria11293'
-[20:40:28] [Server thread/INFO]: Villager class_1646['Nitwit'/80085, l='ServerLevel[blitz]', x=-16.49, y=82.00, z=-38.78] died, message: 'Nitwit was slain by Alegria11293'
-[20:40:37] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-31.58, y=90.00, z=-15.30] at TeleportTarget{pitch=25.05007, position=(-251.5, 90.0, -134.30000001192093), velocity=(0.0, -0.0784000015258789, 0.0), yaw=53.69684}
-[20:40:50] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:41:20] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=-250.87, y=90.00, z=-135.25] at TeleportTarget{pitch=30.750063, position=(-31.5, 90.0, -16.245353964361755), velocity=(-0.0885512271792284, -0.0784000015258789, -0.05329505665202502), yaw=121.49695}
-[20:41:33] [Server thread/INFO]: [Alegria11293: Teleported Alegria11293 to 200.500000, 89.875000, -99.500000]
-[20:41:56] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:42:03] [Server thread/INFO]: Portal located for entity class_3222['Alegria11293'/70395, l='ServerLevel[blitz]', x=202.30, y=60.00, z=-96.50] at TeleportTarget{pitch=44.250008, position=(1680.5, 63.0, -738.5041605894045), velocity=(0.0, -0.0784000015258789, 0.0), yaw=-83.702934}
-[20:42:17] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:42:31] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:43:40] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:43:47] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:44:16] [Server thread/INFO]: Alegria11293 has completed the challenge [Cover Me in Debris]
-[20:45:57] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:46:00] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:46:02] [Server thread/INFO]: [Alegria11293: Set own game mode to Creative Mode]
-[20:46:04] [Server thread/INFO]: [Alegria11293: Set own game mode to Survival Mode]
-[20:49:15] [Server thread/INFO]: Villager class_1646['Toolsmith'/53325, l='ServerLevel[blitz]', x=1658.82, y=64.00, z=-736.82] died, message: 'Toolsmith burned to death'
-[21:02:59] [Server thread/INFO]: davidVengadrof[/127.197.155.166:44261] logged in with entity id 99179 at (1651.6026588520135, 66.0, -731.2351693627096)
-[21:02:59] [Server thread/INFO]: davidVengadrof joined the game
-[21:02:59] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
-[21:07:36] [Server thread/INFO]: Villager class_1646['Unemployed'/93745, l='ServerLevel[blitz]', x=1655.78, y=66.00, z=-723.50] died, message: 'Unemployed burned to death'
-[21:09:36] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
-[21:09:36] [Server thread/INFO]: Cchurrasco left the game
-[21:09:36] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
-[21:10:19] [Server thread/INFO]: Cchurrasco[/127.136.180.58:45079] logged in with entity id 100610 at (1650.81654391014, 66.0, -714.7587514055284)
-[21:10:19] [Server thread/INFO]: Cchurrasco joined the game
-[21:10:19] [Server thread/INFO]: Async chunk loading for player Cchurrasco completed
-[21:10:19] [Server thread/INFO]: [voicechat] Received secret request of Cchurrasco (18)
-[21:10:19] [Server thread/INFO]: [voicechat] Sent secret to Cchurrasco
-[21:10:21] [Server thread/INFO]: Player Cchurrasco joined with a matching carpet client
-[21:10:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d3c71c10-9906-32ee-a192-5795920d89bd
-[21:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d3c71c10-9906-32ee-a192-5795920d89bd
-[21:10:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Cchurrasco (d3c71c10-9906-32ee-a192-5795920d89bd) successfully connected to voice chat
-[21:13:02] [Server thread/INFO]: Alegria11293 lost connection: Disconnected
-[21:13:02] [Server thread/INFO]: Alegria11293 left the game
-[21:13:02] [Server thread/INFO]: [voicechat] Disconnecting client Alegria11293
-[21:13:17] [Server thread/INFO]: Made Alegria11293 no longer a server operator
-[21:14:25] [Server thread/INFO]: Cchurrasco lost connection: Disconnected
-[21:14:25] [Server thread/INFO]: Cchurrasco left the game
-[21:14:25] [Server thread/INFO]: [voicechat] Disconnecting client Cchurrasco
-[21:14:28] [Server thread/INFO]: Andrescph[/127.172.95.49:40047] logged in with entity id 101449 at (-34.5, 72.0, -36.5)
-[21:14:28] [Server thread/INFO]: Andrescph joined the game
-[21:14:28] [Server thread/INFO]: Async chunk loading for player Andrescph completed
-[21:14:39] [Server thread/INFO]: [Not Secure] <Andrescph> donde estan?
-[21:15:15] [Server thread/INFO]: [Not Secure] <davidVengadrof> 1600 -700
-[21:17:05] [Server thread/WARN]: Andrescph moved wrongly!
-[21:19:07] [Server thread/INFO]: davidVengadrof has made the advancement [What a Deal!]
-[21:21:34] [Server thread/INFO]: Andrescph has made the advancement [Monster Hunter]
-[21:25:07] [Server thread/INFO]: Andrescph has made the advancement [Acquire Hardware]
-[21:29:29] [Server thread/INFO]: Andrescph has made the advancement [Isn't It Iron Pick]
-[21:38:14] [Server thread/INFO]: Andrescph has made the advancement [Stone Age]
+[21:44:42] [main/INFO]: Loaded 1898 recipes
+[21:44:42] [main/ERROR]: Parsing error loading custom advancement sozoka:root: No key id in MapLike[{"item":"minecraft:player_head","nbt":"{SkullOwner:SozoKa}"}]
+[21:44:42] [main/ERROR]: Parsing error loading custom advancement sitanywhere:dpsystem/icon: No key id in MapLike[{"item":"minecraft:mangrove_stairs"}]
+[21:44:42] [main/INFO]: Loaded 1933 advancements
+[21:44:42] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: minecraft:candle
+[21:44:43] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 2.474 ms
+[21:44:43] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[21:44:43] [Server thread/INFO]: Loading properties
+[21:44:43] [Server thread/INFO]: Default game type: SURVIVAL
+[21:44:43] [Server thread/INFO]: Generating keypair
+[21:44:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:44:43] [Server thread/INFO]: Using epoll channel type
+[21:44:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:44:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:44:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:44:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:44:43] [Server thread/INFO]: Preparing level "world"
+[21:44:43] [Server thread/INFO]: [CM] Loaded 7 settings from carpet.conf
+[21:44:43] [Server thread/INFO]: Enforcing safe world random access
+[21:44:43] [Server thread/INFO]: Changing watch distance to 10
+[21:44:46] [Server thread/INFO]: Changing watch distance to 10
+[21:44:46] [Server thread/INFO]: Changing watch distance to 10
+[21:44:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:44:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[21:44:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:44:48] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:44:49] [Server thread/INFO]: Time elapsed: 2472 ms
+[21:44:49] [Server thread/INFO]: Done (5.923s)! For help, type "help"
+[21:44:49] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[21:44:49] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[21:44:49] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[21:44:49] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[21:44:49] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[21:44:49] [Server thread/INFO]: Added 0 persistent groups
+[21:44:49] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'their-estimates.gl.at.ply.gg:1586'
+[21:44:49] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 42069
+[21:44:56] [Server thread/INFO]: dmins[/127.122.212.189:38183] logged in with entity id 36 at (1658.8025879323911, 71.41999998688698, -720.3610947975827)
+[21:44:56] [Server thread/INFO]: dmins joined the game
+[21:44:57] [Server thread/INFO]: [voicechat] Received secret request of dmins (18)
+[21:44:57] [Server thread/INFO]: [voicechat] Sent secret to dmins
+[21:44:57] [Server thread/INFO]: Player dmins joined with a matching carpet client
+[21:44:57] [Server thread/INFO]: Async chunk loading for player dmins completed
+[21:44:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
+[21:44:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 0ac8f408-1166-367b-9f4a-9c7dd4330aea
+[21:44:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player dmins (0ac8f408-1166-367b-9f4a-9c7dd4330aea) successfully connected to voice chat
+[21:45:00] [Server thread/INFO]: davidVengadrof[/127.197.155.166:42433] logged in with entity id 365 at (1624.0486815365523, 64.0, -735.452955309693)
+[21:45:00] [Server thread/INFO]: davidVengadrof joined the game
+[21:45:00] [Server thread/INFO]: Async chunk loading for player davidVengadrof completed
+[21:45:33] [Server thread/INFO]: Andrescph[/127.172.95.49:59907] logged in with entity id 787 at (5.154937196413396, 76.0, 35.79128921968813)
+[21:45:33] [Server thread/INFO]: Andrescph joined the game
+[21:45:33] [Server thread/INFO]: Async chunk loading for player Andrescph completed
+[21:47:16] [Server thread/INFO]: Andrescph lost connection: Disconnected
+[21:47:16] [Server thread/INFO]: Andrescph left the game
+[21:47:16] [Server thread/INFO]: [voicechat] Disconnecting client Andrescph
